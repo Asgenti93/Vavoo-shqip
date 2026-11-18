@@ -1,0 +1,1803 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Whatsapp +372 5468 9502" tvg-logo="" group-title="General Streams",Whatsapp +372 5468 9502
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/212.ts
+#EXTINF:-1 tvg-id="RTK1.xk" tvg-name="RTK 1" tvg-logo="https://artmo.norago.tv/img/resize/53x31/66d01ad0-6b2c-4870-8e40-b3718e64b792.png" group-title="DigitAlb",RTK 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/267.ts
+#EXTINF:-1 tvg-id="rtk-1" tvg-name="RTK 1 HD" tvg-logo="https://artmo.norago.tv/img/resize/53x31/66d01ad0-6b2c-4870-8e40-b3718e64b792.png" group-title="DigitAlb",RTK 1 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTK 3" tvg-logo="https://artmo.norago.tv/img/53x31/522507064466049760.png" group-title="DigitAlb",RTK 3
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/12.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTK 4" tvg-logo="https://artmo.norago.tv/img/53x31/2554113410953269217.png" group-title="DigitAlb",RTK 4
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/13.ts
+#EXTINF:-1 tvg-id="Kohavision.xk" tvg-name="KTV" tvg-logo="https://artmo.norago.tv/img/53x31/8657235443069636986.png" group-title="DigitAlb",KTV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/2.ts
+#EXTINF:-1 tvg-id="Kohavision.xk" tvg-name="KTV HD" tvg-logo="https://artmo.norago.tv/img/53x31/8657235443069636986.png" group-title="DigitAlb",KTV HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/11.ts
+#EXTINF:-1 tvg-id="RTV21.xk" tvg-name="RTV 21" tvg-logo="https://artmo.norago.tv/img/53x31/7804057464320435930.png" group-title="DigitAlb",RTV 21
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/3.ts
+#EXTINF:-1 tvg-id="RTV21.xk" tvg-name="RTV 21 HD" tvg-logo="https://artmo.norago.tv/img/53x31/7804057464320435930.png" group-title="DigitAlb",RTV 21 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/10.ts
+#EXTINF:-1 tvg-id="Bang Bang" tvg-name="Klan Kosova" tvg-logo="https://artmo.norago.tv/img/53x31/6897165817211302411.png" group-title="DigitAlb",Klan Kosova
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/8.ts
+#EXTINF:-1 tvg-id="Klan Kosova" tvg-name="Klan Kosova HD" tvg-logo="https://artmo.norago.tv/img/53x31/6897165817211302411.png" group-title="DigitAlb",Klan Kosova HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/9.ts
+#EXTINF:-1 tvg-id="top_channel" tvg-name="Top Channel" tvg-logo="https://artmo.norago.tv/img/resize/53x31/ece3522e-56b8-4aa3-a37d-a9a0839811b4.png" group-title="DigitAlb",Top Channel
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/6.ts
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel HD" tvg-logo="https://artmo.norago.tv/img/resize/53x31/ece3522e-56b8-4aa3-a37d-a9a0839811b4.png" group-title="DigitAlb",Top Channel HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/4.ts
+#EXTINF:-1 tvg-id="TVKlan.al" tvg-name="Klan TV" tvg-logo="https://nimitv.com/img/kanale-list/list9.png" group-title="DigitAlb",Klan TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/7.ts
+#EXTINF:-1 tvg-id="Klantv" tvg-name="Klan TV HD" tvg-logo="https://nimitv.com/img/kanale-list/list9.png" group-title="DigitAlb",Klan TV HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/5.ts
+#EXTINF:-1 tvg-id="Klan Plus" tvg-name="Klan Plus HD" tvg-logo="https://artmo.norago.tv/img/53x31/3204678021799333661.png" group-title="DigitAlb",Klan Plus HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/297.ts
+#EXTINF:-1 tvg-id="vizionmemlisht" tvg-name="Vizion Plus" tvg-logo="https://nimi.norago.tv/img/53x31/105332334941834323.png" group-title="Tring",Vizion Plus
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/16.ts
+#EXTINF:-1 tvg-id="Vizion Plus HD" tvg-name="Vizion Plus HD" tvg-logo="https://nimi.norago.tv/img/53x31/105332334941834323.png" group-title="Tring",Vizion Plus HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/540.ts
+#EXTINF:-1 tvg-id="A2 CNN" tvg-name="TV Dukagjini" tvg-logo="https://artmo.norago.tv/img/53x31/6890701430352846909.png" group-title="Lokale",TV Dukagjini
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/20.ts
+#EXTINF:-1 tvg-id="A2 CNN" tvg-name="Kanal 10" tvg-logo="https://artmo.norago.tv/img/53x31/1612529906411468048.png" group-title="Lokale",Kanal 10
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1271.ts
+#EXTINF:-1 tvg-id="" tvg-name="PRO 1" tvg-logo="https://artmo.norago.tv/img/resize/53x31/2a32eaad-fdca-4335-a33e-f95ea1863b3d.png" group-title="DigitAlb",PRO 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1393.ts
+#EXTINF:-1 tvg-id="T7.rs" tvg-name="T7 HD" tvg-logo="https://artmo.norago.tv/img/resize/53x31/520813da-9a63-46bd-b94f-d231d38d31a0.jpg" group-title="DigitAlb",T7 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/562.ts
+#EXTINF:-1 tvg-id="" tvg-name="TeVe1" tvg-logo="https://artmo.norago.tv/img/resize/53x31/1f201f84-57b3-4411-8326-fcbd3d73e5b1.png" group-title="Lokale",TeVe1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1334.ts
+#EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="https://artmo.norago.tv/img/resize/53x31/6300642393736473073.png" group-title="Lokale",ATV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1279.ts
+#EXTINF:-1 tvg-id="A2 CNN" tvg-name="Alsat M" tvg-logo="https://artmo.norago.tv/img/resize/53x31/77967112-68ad-490b-bbac-cd7c509e3e7d.png" group-title="DigitAlb",Alsat M
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/18.ts
+#EXTINF:-1 tvg-id="A2 CNN" tvg-name="MCN TV" tvg-logo="https://artmo.norago.tv/img/resize/53x31/8fda7d3d-6d11-4301-9d1b-f0b353b241e8.png" group-title="DigitAlb",MCN TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1287.ts
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP 1 " tvg-logo="https://artmo.norago.tv/img/resize/53x31/fdf65a41-9df2-4195-b11b-c18a7880a60e.png" group-title="Big Brother VIP",Big Brother VIP 1 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1360.ts
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP 2 " tvg-logo="https://artmo.norago.tv/img/resize/53x31/643a479e-0c6a-4e64-83fe-4619ef6897d0.png" group-title="Big Brother VIP",Big Brother VIP 2 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1361.ts
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP Kosova  1" tvg-logo="https://artmo.norago.tv/img/resize/53x31/f574544a-5d05-458a-b62b-5d4b12d1d1f8.png" group-title="Big Brother VIP",Big Brother VIP Kosova  1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1356.ts
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP Kosova  2" tvg-logo="https://artmo.norago.tv/img/resize/53x31/e340af0c-d37e-42fa-9036-a71755ef4694.png" group-title="Big Brother VIP",Big Brother VIP Kosova  2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1357.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ferma VIP 1" tvg-logo="https://apps.tibo.tv/1/files/channels/1711120268172ferma1240x240.png" group-title="Tring",Ferma VIP 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1648.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ferma VIP 2" tvg-logo="https://apps.tibo.tv/1/files/channels/1711120275375ferma2240x240.png" group-title="Tring",Ferma VIP 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1649.ts
+#EXTINF:-1 tvg-id="A2 CNN" tvg-name="RTSH 1" tvg-logo="https://artmo.norago.tv/img/resize/53x31/3ead9442-3407-4274-8a49-70d4d029987b.png" group-title="RTSH",RTSH 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/19.ts
+#EXTINF:-1 tvg-id="20 MEDIASET HD" tvg-name="RTSH 2" tvg-logo="https://nimi.norago.tv/img/resize/53x31/0f57f4da-730e-445f-8d50-c237c328d927.png" group-title="RTSH",RTSH 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/535.ts
+#EXTINF:-1 tvg-id="20 MEDIASET HD" tvg-name="RTSH 24" tvg-logo="https://artmo.norago.tv/img/resize/53x31/4847159601995431336.png" group-title="RTSH",RTSH 24
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/588.ts
+#EXTINF:-1 tvg-id="TV21.mk" tvg-name="RTSH Sport " tvg-logo="https://apps.tibo.tv/1/files/channels/16687836552981614354602030RTSHSport.png" group-title="RTSH",RTSH Sport 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/17.ts
+#EXTINF:-1 tvg-id="A2 CNN" tvg-name="RTSH Sport HD" tvg-logo="https://apps.tibo.tv/1/files/channels/16687836552981614354602030RTSHSport.png" group-title="RTSH",RTSH Sport HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/169.ts
+#EXTINF:-1 tvg-id="A2 CNN" tvg-name="RTSH Shqip" tvg-logo="https://artmo.norago.tv/img/resize/53x31/4617419428936303731.png" group-title="RTSH",RTSH Shqip
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/531.ts
+#EXTINF:-1 tvg-id="3plusdysh" tvg-name="RTSH Film" tvg-logo="https://nimi.norago.tv/img/resize/53x31/b67eea16-3ea5-42ec-b447-544d77345420.png" group-title="RTSH",RTSH Film
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/532.ts
+#EXTINF:-1 tvg-id="20 MEDIASET HD" tvg-name="RTSH Femije" tvg-logo="https://artmo.norago.tv/img/resize/53x31/db877b10-f420-4e58-8ca4-80c6b8c45de0.png" group-title="RTSH",RTSH Femije
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/759.ts
+#EXTINF:-1 tvg-id="20 MEDIASET HD" tvg-name="RTSH Kuvend" tvg-logo="https://nimi.norago.tv/img/resize/53x31/7ef17712-e232-4e9a-bf04-32cf1e078966.png" group-title="RTSH",RTSH Kuvend
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1341.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Kukesi" tvg-logo="https://nimi.norago.tv/img/resize/53x31/348b2726-b22b-4eda-9b43-c31f99e113eb.png" group-title="RTSH",RTSH Kukesi
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1338.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Korca" tvg-logo="https://nimi.norago.tv/img/resize/53x31/3f99a66b-864b-4b7a-81aa-1ae3189c3cd9.png" group-title="RTSH",RTSH Korca
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1339.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Shkodra" tvg-logo="https://nimi.norago.tv/img/resize/53x31/acae75b7-7462-41b0-a1e5-e0c36a2fcc8e.png" group-title="RTSH",RTSH Shkodra
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1283.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Gjirokastra" tvg-logo="https://nimi.norago.tv/img/resize/53x31/8a257617-a642-4005-9808-40bfda2f3bda.png" group-title="RTSH",RTSH Gjirokastra
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1340.ts
+#EXTINF:-1 tvg-id="3plusdysh" tvg-name="RTSH Muzike" tvg-logo="https://nimi.norago.tv/img/resize/53x31/0fad7b55-436e-4304-b829-de55929b3089.png" group-title="RTSH",RTSH Muzike
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/533.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV1 Channel Shkoder" tvg-logo="http://vip.worldlivetv.stream/images/blank_square.png" group-title="Lokale",TV1 Channel Shkoder
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/348.ts
+#EXTINF:-1 tvg-id="STAR PLUS TV" tvg-name="Star Plus Shkoder" tvg-logo="https://artmo.norago.tv/img/resize/53x31/119baa08-0aac-4bc9-8eba-244d946c8fef.png" group-title="Lokale",Star Plus Shkoder
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/328.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Rozafa Shkoder" tvg-logo="https://nimitv.com/img/kanale-list/list34.webp" group-title="Lokale",TV Rozafa Shkoder
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/349.ts
+#EXTINF:-1 tvg-id="" tvg-name="Blue Sky TV Shkoder" tvg-logo="https://mw.nimitv.net/img/53x31/5948051712131367072.jpg" group-title="Lokale",Blue Sky TV Shkoder
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/345.ts
+#EXTINF:-1 tvg-id="" tvg-name="ON TV " tvg-logo="https://nimi.norago.tv/img/upload/67/9b/5a7b-2881-401e-b52f-be1fb5e38823.png?resize=53x31" group-title="Lokale",ON TV 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/425.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lezha TV" tvg-logo="https://nimi.norago.tv/img/upload/03/ec/c076-7a11-4444-a39b-b113efab6a8e.png?resize=53x31" group-title="Lokale",Lezha TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1278.ts
+#EXTINF:-1 tvg-id="a045" tvg-name="Top News" tvg-logo="https://nimi.norago.tv/img/53x31/4571508256970022813.png" group-title="DigitAlb",Top News
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/21.ts
+#EXTINF:-1 tvg-id="ABC HD" tvg-name="ABC News" tvg-logo="https://nimi.norago.tv/img/53x31/7145862429598559769.png" group-title="DigitAlb",ABC News
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/119.ts
+#EXTINF:-1 tvg-id="News 24" tvg-name="News 24" tvg-logo="https://nimi.norago.tv/img/53x31/2621704307112349676.png" group-title="DigitAlb",News 24
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/118.ts
+#EXTINF:-1 tvg-id="A2 CNN" tvg-name="Report TV" tvg-logo="https://nimi.norago.tv/img/53x31/8976759730862198828.png" group-title="DigitAlb",Report TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/124.ts
+#EXTINF:-1 tvg-id="Bang Bang" tvg-name="Klan News" tvg-logo="https://nimi.norago.tv/img/resize/53x31/7448430561497260797.png" group-title="DigitAlb",Klan News
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1292.ts
+#EXTINF:-1 tvg-id="Ora News" tvg-name="Ora News" tvg-logo="https://nimi.norago.tv/img/resize/53x31/3668707390762001112.png" group-title="DigitAlb",Ora News
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/510.ts
+#EXTINF:-1 tvg-id="Syri TV" tvg-name="Syri TV" tvg-logo="https://nimi.norago.tv/img/resize/53x31/8447088821808198299.png" group-title="DigitAlb",Syri TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1269.ts
+#EXTINF:-1 tvg-id="EuronewsAlbania.al" tvg-name="EuroNews " tvg-logo="https://nimi.norago.tv/img/53x31/6632372947282485590.png" group-title="DigitAlb",EuroNews 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1158.ts
+#EXTINF:-1 tvg-id="A2_CNN" tvg-name="A2 CNN" tvg-logo="https://nimi.norago.tv/img/53x31/7132105300727836155.png" group-title="DigitAlb",A2 CNN
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/955.ts
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="https://www.lyngsat.com/logo/tv/nn/neser-tv-al.png" group-title="DigitAlb",NTV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1632.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNA News" tvg-logo="https://apps.tibo.tv/1/files/channels/1671220878751CNAQUAD240x240.png" group-title="DigitAlb",CNA News
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1436.ts
+#EXTINF:-1 tvg-id="faxnews" tvg-name="Fax News" tvg-logo="https://nimi.norago.tv/img/53x31/5114492514049273121.png" group-title="Tring",Fax News
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/586.ts
+#EXTINF:-1 tvg-id="TVArta.xk" tvg-name="Arta News" tvg-logo="https://nimi.norago.tv/img/53x31/3565397756245215644.png" group-title="DigitAlb",Arta News
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/117.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scan TV" tvg-logo="https://apps.tibo.tv/files/channel_img/Scan_TV.png" group-title="DigitAlb",Scan TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1401.ts
+#EXTINF:-1 tvg-id="3plusdysh" tvg-name="Kanali 7" tvg-logo="https://nimi.norago.tv/img/53x31/1753226987355459389.png" group-title="Tring",Kanali 7
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/160.ts
+#EXTINF:-1 tvg-id="GoldHD" tvg-name="Film Gold HD" tvg-logo="https://nimi.norago.tv/img/resize/53x31/c7761229-80c4-4b60-8482-677e99ef1987.png" group-title="DigitAlb",Film Gold HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1089.ts
+#EXTINF:-1 tvg-id="MAXHD" tvg-name="Film Max HD" tvg-logo="https://nimi.norago.tv/img/resize/53x31/941b30d2-6e1a-4ed0-a173-e449951cc29a.png" group-title="DigitAlb",Film Max HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1088.ts
+#EXTINF:-1 tvg-id="a045" tvg-name="Film Hits HD" tvg-logo="https://nimi.norago.tv/img/53x31/2292709488424760768.png" group-title="DigitAlb",Film Hits HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1085.ts
+#EXTINF:-1 tvg-id="Film Autor HD" tvg-name="Film Autor HD" tvg-logo="https://nimi.norago.tv/img/53x31/4407215064540306670.png" group-title="DigitAlb",Film Autor HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/34.ts
+#EXTINF:-1 tvg-id="Film Aksion HD" tvg-name="Film Aksion HD" tvg-logo="https://nimi.norago.tv/img/53x31/8459446896817295480.png" group-title="DigitAlb",Film Aksion HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1084.ts
+#EXTINF:-1 tvg-id="Film Komedi HD" tvg-name="Film Komedi HD" tvg-logo="https://mw.kujtesa.net/img/upload/e7/14/da8a-20db-4e38-82e9-b92be60e594f.png?resize=53x31" group-title="DigitAlb",Film Komedi HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/32.ts
+#EXTINF:-1 tvg-id="Film Thriller HD" tvg-name="Film Thriller" tvg-logo="https://nimi.norago.tv/img/53x31/8991762832420911397.png" group-title="DigitAlb",Film Thriller
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/36.ts
+#EXTINF:-1 tvg-id="Film Drame HD" tvg-name="Film Drame" tvg-logo="https://mw.kujtesa.net/img/upload/2a/c9/7b89-bd34-415c-b0b0-5fe4fa0651d9.png?resize=53x31" group-title="DigitAlb",Film Drame
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/33.ts
+#EXTINF:-1 tvg-id="Euro Film HD" tvg-name="Euro Film" tvg-logo="https://nimi.norago.tv/img/resize/53x31/4b291c72-e36c-41c3-8a30-245c511f64b7.png" group-title="DigitAlb",Euro Film
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/43.ts
+#EXTINF:-1 tvg-id="A2 CNN" tvg-name="20 DigitAlb" tvg-logo="https://mw.nimitv.net/img/53x31/3115375432624732354.png" group-title="DigitAlb",20 DigitAlb
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1090.ts
+#EXTINF:-1 tvg-id="a045" tvg-name="Stinet" tvg-logo="https://nimi.norago.tv/img/53x31/1034831276593933281.png" group-title="DigitAlb",Stinet
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/51.ts
+#EXTINF:-1 tvg-id="a045" tvg-name="T HD" tvg-logo="https://mw.nimitv.net/img/53x31/8968351125422212340.png" group-title="DigitAlb",T HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/14.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEVE Shqip" tvg-logo="https://nimi.norago.tv/img/resize/53x31/b0299340-9ad9-4733-89e4-d74fcb808534.png" group-title="Kinema",TEVE Shqip
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1355.ts
+#EXTINF:-1 tvg-id="" tvg-name="ISP Shqip " tvg-logo="https://apps.tibo.tv/1/files/channels/1696520081818shqip.png" group-title="Kinema",ISP Shqip 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1471.ts
+#EXTINF:-1 tvg-id="" tvg-name="Klan Nostalgji" tvg-logo="https://tvklan.al/assets/images/klan-nostalgji-circle.png" group-title="DigitAlb",Klan Nostalgji
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1258.ts
+#EXTINF:-1 tvg-id="tringactionmemlisht" tvg-name="Tring Action" tvg-logo="https://nimi.norago.tv/img/resize/53x31/d9077535-ebdc-48d3-a735-c835062cc5ab.png" group-title="Tring",Tring Action
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/45.ts
+#EXTINF:-1 tvg-id="tringcomedymemlisht" tvg-name="Tring Comedy" tvg-logo="https://nimi.norago.tv/img/resize/53x31/8ba369f7-fb19-41b5-9874-4a5abf754aa1.png" group-title="Tring",Tring Comedy
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/47.ts
+#EXTINF:-1 tvg-id="tringfantasymemlisht" tvg-name="Tring Fantasy" tvg-logo="https://nimi.norago.tv/img/resize/53x31/fb1a0323-13df-4951-b601-520d95f73550.png" group-title="Tring",Tring Fantasy
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/46.ts
+#EXTINF:-1 tvg-id="tringsupermemlisht" tvg-name="Tring Super" tvg-logo="https://nimi.norago.tv/img/resize/53x31/f38568bc-849a-43f9-a2b9-59cee0b2901e.png" group-title="Tring",Tring Super
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/49.ts
+#EXTINF:-1 tvg-id="TringFamily.al" tvg-name="Tring Family" tvg-logo="https://nimi.norago.tv/img/resize/53x31/9e749ef3-427f-449d-93d0-09434c8cf6af.png" group-title="Tring",Tring Family
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1275.ts
+#EXTINF:-1 tvg-id="tringshqipmemlisht" tvg-name="Tring Shqip" tvg-logo="https://mw.kujtesa.net/img/upload/f6/9b/600b-5d90-4e44-a789-c076035974a7.png?resize=53x31" group-title="Tring",Tring Shqip
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/50.ts
+#EXTINF:-1 tvg-id="tringlife" tvg-name="Tring Life" tvg-logo="https://nimi.norago.tv/img/resize/53x31/3bbd5816-e1c7-4fd3-91b8-adeb798afadb.png" group-title="Tring",Tring Life
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/48.ts
+#EXTINF:-1 tvg-id="tringplanet" tvg-name="Tring Planet" tvg-logo="https://nimi.norago.tv/img/resize/53x31/9bf54917-7002-4946-844a-fae94f3fb796.png" group-title="Tring",Tring Planet
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/27.ts
+#EXTINF:-1 tvg-id="Tring History" tvg-name="Tring History" tvg-logo="https://nimi.norago.tv/img/resize/53x31/650acf55-9974-4935-91a7-6172af9c722f.png" group-title="Tring",Tring History
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/29.ts
+#EXTINF:-1 tvg-id="tringworldmemlisht" tvg-name="Tring World" tvg-logo="https://nimi.norago.tv/img/resize/53x31/06478676-1220-4e8a-8324-527594417891.png" group-title="Tring",Tring World
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/28.ts
+#EXTINF:-1 tvg-id="3plusdysh" tvg-name="Tring Collection" tvg-logo="https://nimi.norago.tv/img/resize/53x31/c8e5b608-882d-4057-b200-c29293bb03c3.png" group-title="Tring",Tring Collection
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1303.ts
+#EXTINF:-1 tvg-id="tringclassic" tvg-name="Tring Classic" tvg-logo="https://nimi.norago.tv/img/resize/53x31/db1d95ec-0acc-440b-b10b-072f7705c4c5.png" group-title="Tring",Tring Classic
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1290.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Muse" tvg-logo="https://i.ytimg.com/vi/SHSLsrVTbKg/maxresdefault.jpg" group-title="Tring",Tring Muse
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/30.ts
+#EXTINF:-1 tvg-id="smilememlisht" tvg-name="Tring Smile" tvg-logo="https://i.ytimg.com/vi/mUCikXYz03M/maxresdefault.jpg" group-title="Tring",Tring Smile
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/54.ts
+#EXTINF:-1 tvg-id="Tring Original" tvg-name="Tring Original" tvg-logo="https://nimi.norago.tv/img/resize/53x31/e779f641-694b-4c76-a4bf-4e1549028b4b.png" group-title="Tring",Tring Original
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/38.ts
+#EXTINF:-1 tvg-id="3plus" tvg-name="Tring 3 Plus" tvg-logo="https://nimi.norago.tv/img/resize/53x31/02f60276-64d5-43c0-b33c-1a2afd677faa.png" group-title="Tring",Tring 3 Plus
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/56.ts
+#EXTINF:-1 tvg-id="tiptvmemlisht" tvg-name="Tring Tip TV" tvg-logo="https://nimi.norago.tv/img/53x31/3073190231194443286.png" group-title="Tring",Tring Tip TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/57.ts
+#EXTINF:-1 tvg-id="tringtring" tvg-name="Tring Tring" tvg-logo="https://nimi.norago.tv/img/53x31/9148028487396489228.png" group-title="Tring",Tring Tring
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/102.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Kids" tvg-logo="https://nimi.norago.tv/img/resize/53x31/94a2c12b-a88d-4f25-a80f-c789e19d3616.png" group-title="Tring",Tring Kids
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/162.ts
+#EXTINF:-1 tvg-id="seriesmemlisht" tvg-name="Tring Series" tvg-logo="https://nimi.norago.tv/img/resize/53x31/a39b10ad-21fd-406e-8ed5-ada27ce5a0aa.png" group-title="Tring",Tring Series
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/55.ts
+#EXTINF:-1 tvg-id="3plusdysh" tvg-name="Tring Novelas" tvg-logo="https://nimi.norago.tv/img/resize/53x31/320088e7-2f81-468e-9e38-965e62802bbb.png" group-title="Tring",Tring Novelas
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1291.ts
+#EXTINF:-1 tvg-id="" tvg-name="Seriale Turke HD" tvg-logo="https://nimi.norago.tv/img/53x31/8567292382093147626.png" group-title="Tring",Seriale Turke HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1000.ts
+#EXTINF:-1 tvg-id="" tvg-name="Turkish Stories HD" tvg-logo="https://nimi.norago.tv/img/resize/53x31/965e4d91-7039-49c9-ab71-894761335405.png" group-title="Tring",Turkish Stories HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1392.ts
+#EXTINF:-1 tvg-id="kanalddrama" tvg-name="KanalD Drama HD" tvg-logo="https://nimi.norago.tv/img/53x31/2325385653870968462.png" group-title="Tring",KanalD Drama HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1160.ts
+#EXTINF:-1 tvg-id="EXP shkence" tvg-name="Explorer Shkence" tvg-logo="https://nimi.norago.tv/img/53x31/4564595520711193425.png" group-title="DigitAlb",Explorer Shkence
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/26.ts
+#EXTINF:-1 tvg-id="EXP natyra" tvg-name="Explorer Natyra" tvg-logo="https://nimi.norago.tv/img/53x31/4905952149412333518.png" group-title="DigitAlb",Explorer Natyra
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/25.ts
+#EXTINF:-1 tvg-id="EXP histori" tvg-name="Explorer Histori" tvg-logo="https://nimi.norago.tv/img/53x31/5350000762401501897.png" group-title="DigitAlb",Explorer Histori
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/24.ts
+#EXTINF:-1 tvg-id="1-2-3.tv.al" tvg-name="Doku 1" tvg-logo="https://artmo.norago.tv/img/resize/53x31/2f6668fc-0766-4a23-a41c-893f0c7b32c5.png" group-title="DigitAlb",Doku 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/783.ts
+#EXTINF:-1 tvg-id="1-2-3.tv.al" tvg-name="Doku 2" tvg-logo="https://artmo.norago.tv/img/resize/53x31/3029d4a6-334d-4d34-b70c-d721c1a693f5.png" group-title="DigitAlb",Doku 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/784.ts
+#EXTINF:-1 tvg-id="" tvg-name="T Doku 1 " tvg-logo="https://apps.tibo.tv/1/files/channels/1627737535714Doc1.png" group-title="DigitAlb",T Doku 1 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1413.ts
+#EXTINF:-1 tvg-id="" tvg-name="T Doku 2 " tvg-logo="https://apps.tibo.tv/1/files/channels/1627737543930Doc2.png" group-title="DigitAlb",T Doku 2 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1414.ts
+#EXTINF:-1 tvg-id="livingmemlisht" tvg-name="Living HD" tvg-logo="https://nimi.norago.tv/img/resize/53x31/6bbbfd7c-5bb6-458e-9dcd-33aa0aa93026.png" group-title="Tring",Living HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/31.ts
+#EXTINF:-1 tvg-id="Cufo TV" tvg-name="Cufo" tvg-logo="https://nimi.norago.tv/img/53x31/2900546208803235650.png" group-title="DigitAlb",Cufo
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/100.ts
+#EXTINF:-1 tvg-id="a045" tvg-name="Bang Bang" tvg-logo="http://ontv.al/app/images/30343_bangbang.jpg" group-title="DigitAlb",Bang Bang
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/101.ts
+#EXTINF:-1 tvg-id="Junior TV" tvg-name="Junior TV" tvg-logo="https://artmo.norago.tv/img/resize/53x31/7e89617c-05ad-49b7-a083-14c1d18c1480.png" group-title="DigitAlb",Junior TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/44.ts
+#EXTINF:-1 tvg-id="RTSH3.al" tvg-name="#Kids 1" tvg-logo="https://artmo.norago.tv/img/upload/d8/34/b1ed-3e78-42aa-b394-983dbdb564e2.png?resize=53x31" group-title="DigitAlb",#Kids 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/534.ts
+#EXTINF:-1 tvg-id="20mediasetibc" tvg-name="#Kids 2" tvg-logo="https://artmo.norago.tv/img/upload/d9/88/e894-fd15-4012-a8b5-28a54cbf7333.png?resize=53x31" group-title="DigitAlb",#Kids 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/587.ts
+#EXTINF:-1 tvg-id="" tvg-name="#Hits" tvg-logo="" group-title="DigitAlb",#Hits
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1645.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sofia" tvg-logo="https://mw.kujtesa.net/img/upload/1a/cc/2575-3801-49f7-975b-517b653d16c8.png?resize=53x31" group-title="Tring",Sofia
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1022.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prince Kids" tvg-logo="https://mw.kujtesa.net/img/upload/51/85/7371-b557-4965-8b3e-b5442ea097ef.png?resize=53x31" group-title="DigitAlb",Prince Kids
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/788.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Junior" tvg-logo="https://nimi.norago.tv/img/upload/18/e6/cc80-6887-4bed-b8fd-bd9abe7be4a8.png?resize=53x31" group-title="Lokale",RTV 21 Junior
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/167.ts
+#EXTINF:-1 tvg-id="" tvg-name="Episode " tvg-logo="https://mw.kujtesa.net/img/upload/90/63/976d-62cc-4892-ac40-2b0e36923d4e.png?resize=53x31" group-title="Kinema",Episode 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/789.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime TV" tvg-logo="https://nimi.norago.tv/img/resize/53x31/5907255725620108959.png" group-title="Tring",Prime TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1420.ts
+#EXTINF:-1 tvg-id="a045" tvg-name="Star Channel" tvg-logo="https://mw.kujtesa.net/img/upload/5a/81/58f8-2ea0-4eda-bf0c-53d3fa7f5f73.png?resize=53x31" group-title="Kinema",Star Channel
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/61.ts
+#EXTINF:-1 tvg-id="a045" tvg-name="Star Life" tvg-logo="https://mw.kujtesa.net/img/upload/95/ee/aa27-3696-4b0d-b76e-601e6c9abbae.png?resize=53x31" group-title="Kinema",Star Life
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/62.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Crime" tvg-logo="https://mw.kujtesa.net/img/upload/be/c1/5b28-fd76-4452-b326-b11cdf57588c.png?resize=53x31" group-title="Kinema",Star Crime
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1114.ts
+#EXTINF:-1 tvg-id="a045" tvg-name="Star Movies" tvg-logo="https://mw.kujtesa.net/img/upload/01/4c/c558-0a41-49d4-9640-f49b6ba18cac.png?resize=53x31" group-title="Kinema",Star Movies
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/63.ts
+#EXTINF:-1 tvg-id="Kino1.xk" tvg-name="Kino 1" tvg-logo="https://artmo.norago.tv/img/upload/32/a3/0299-8703-4d01-8386-9de023d626e9.png?resize=53x31" group-title="Kinema",Kino 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/780.ts
+#EXTINF:-1 tvg-id="Kino2.xk" tvg-name="Kino 2" tvg-logo="https://artmo.norago.tv/img/upload/eb/df/46d8-a7b4-4f61-8383-eac99daeb74f.png?resize=53x31" group-title="Kinema",Kino 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/781.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kino 3" tvg-logo="https://artmo.norago.tv/img/upload/81/74/4c8a-6788-4909-8386-410080844519.png?resize=53x31" group-title="Kinema",Kino 3
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/782.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 1 HD" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/KinoTV-logo-black.png" group-title="Kinema",Kino Premiere 1 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1259.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 2 HD" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/KinoTV-logo-black.png" group-title="Kinema",Kino Premiere 2 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1262.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 3 HD" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/KinoTV-logo-black.png" group-title="Kinema",Kino Premiere 3 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1261.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 4 HD" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/KinoTV-logo-black.png" group-title="Kinema",Kino Premiere 4 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1631.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 1" tvg-logo="https://artmo.norago.tv/img/resize/53x31/7988101689188970733.png" group-title="Kinema",Premiere 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1366.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 " tvg-logo="https://nimi.norago.tv/img/resize/53x31/4db5c23f-2ebc-41bb-8244-1ecbdec4b111.png" group-title="Kinema",Premiere 2 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1367.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="https://nimi.norago.tv/img/resize/53x31/6313c398-77f3-458d-9050-bfca0b2941cd.png" group-title="Kinema",Premiere 3
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1368.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 " tvg-logo="https://nimi.norago.tv/img/resize/53x31/fbf47b57-0bf7-4dd8-990c-9bd595b238c2.png" group-title="Kinema",Premiere 4 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1369.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 " tvg-logo="https://nimi.norago.tv/img/resize/53x31/8ae799e1-55d7-4c03-bfd9-99d8c598091a.png" group-title="Kinema",Premiere 5 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1382.ts
+#EXTINF:-1 tvg-id="" tvg-name="X Gold 1" tvg-logo="https://artmo.norago.tv/img/53x31/7239291778682516756.png" group-title="Kinema",X Gold 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/204.ts
+#EXTINF:-1 tvg-id="" tvg-name="X Gold 2" tvg-logo="" group-title="Kinema",X Gold 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1655.ts
+#EXTINF:-1 tvg-id="" tvg-name="X Gold 3" tvg-logo="" group-title="Kinema",X Gold 3
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1656.ts
+#EXTINF:-1 tvg-id="" tvg-name="X Gold 4" tvg-logo="" group-title="Kinema",X Gold 4
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1657.ts
+#EXTINF:-1 tvg-id="" tvg-name="T Prime 1 HD" tvg-logo="https://apps.tibo.tv/1/files/channels/1627737554061Prime1.png" group-title="Kinema",T Prime 1 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1311.ts
+#EXTINF:-1 tvg-id="" tvg-name="T Prime 2 HD" tvg-logo="https://apps.tibo.tv/1/files/channels/1627737560572Prime2.png" group-title="Kinema",T Prime 2 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1312.ts
+#EXTINF:-1 tvg-id="" tvg-name="T Action HD" tvg-logo="https://apps.tibo.tv/1/files/channels/1627737569677Action.png" group-title="Kinema",T Action HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1309.ts
+#EXTINF:-1 tvg-id="" tvg-name="T Drama HD" tvg-logo="https://apps.tibo.tv/1/files/channels/1627902970041Drama1.png" group-title="Kinema",T Drama HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1313.ts
+#EXTINF:-1 tvg-id="" tvg-name="T Comedy HD" tvg-logo="https://apps.tibo.tv/1/files/channels/1627737577286Comedy.png" group-title="Kinema",T Comedy HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1310.ts
+#EXTINF:-1 tvg-id="" tvg-name="T Thriller HD" tvg-logo="https://apps.tibo.tv/1/files/channels/1627903096589Thriller1.png" group-title="Kinema",T Thriller HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/708.ts
+#EXTINF:-1 tvg-id="" tvg-name="T Serial HD" tvg-logo="https://apps.tibo.tv/1/files/channels/1627737603931serial.png" group-title="Kinema",T Serial HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1324.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEVE Aksion" tvg-logo="https://mw.kujtesa.net/img/upload/58/36/1949-d14e-4165-908e-9ec198cb88ff.png?resize=53x31" group-title="Kinema",TEVE Aksion
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1359.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEVE Drame" tvg-logo="https://mw.kujtesa.net/img/upload/d8/2c/2ca5-a3ca-4245-8ec9-9e6c8210e7d6.png?resize=53x31" group-title="Kinema",TEVE Drame
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1362.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEVE Novela" tvg-logo="https://mw.kujtesa.net/img/upload/1c/e5/08a1-8020-4efa-aadf-712c24724979.png?resize=53x31" group-title="Kinema",TEVE Novela
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1365.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEVE Komedi" tvg-logo="https://mw.kujtesa.net/img/upload/39/84/cee0-6943-4451-9024-d9571973d90e.png?resize=53x31" group-title="Kinema",TEVE Komedi
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1363.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEVE Fantasy" tvg-logo="https://mw.kujtesa.net/img/upload/19/c9/8cf9-ebe7-4b1c-8e22-17af0d395ecc.png?resize=53x31" group-title="Kinema",TEVE Fantasy
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1364.ts
+#EXTINF:-1 tvg-id="Family HD" tvg-name="TEVE Doku 1" tvg-logo="https://mw.kujtesa.net/img/upload/bb/0f/0dce-6689-4bd8-af47-2c42c8385073.png?resize=53x31" group-title="Kinema",TEVE Doku 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/52.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEVE Doku 2" tvg-logo="https://mw.kujtesa.net/img/upload/a2/d2/6ca1-45ee-4015-8550-2d031e14259c.png?resize=53x31" group-title="Kinema",TEVE Doku 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1476.ts
+#EXTINF:-1 tvg-id="OraTV.al" tvg-name="TEVE Kids 1 " tvg-logo="https://mw.kujtesa.net/img/upload/8b/a6/f609-3a9d-4e8e-826c-aecd4d869aeb.png?resize=53x31" group-title="Kinema",TEVE Kids 1 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/103.ts
+#EXTINF:-1 tvg-id="Film Aksion HD" tvg-name="TEVE Kids 2" tvg-logo="https://mw.kujtesa.net/img/upload/a7/89/f118-2bd6-4eea-8838-1c04887a5c15.png?resize=53x31" group-title="Kinema",TEVE Kids 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/35.ts
+#EXTINF:-1 tvg-id="" tvg-name="ISP Aksion" tvg-logo="https://apps.tibo.tv/1/files/channels/1696332615302ISPAKSION.png" group-title="Kinema",ISP Aksion
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1465.ts
+#EXTINF:-1 tvg-id="" tvg-name="ISP Komedi" tvg-logo="https://apps.tibo.tv/1/files/channels/1696332319830KOMEDI.png" group-title="Kinema",ISP Komedi
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1470.ts
+#EXTINF:-1 tvg-id="" tvg-name="ISP Drame " tvg-logo="https://apps.tibo.tv/1/files/channels/1696332772903ISPDRAME.png" group-title="Kinema",ISP Drame 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1466.ts
+#EXTINF:-1 tvg-id="" tvg-name="ISP Hits " tvg-logo="https://apps.tibo.tv/1/files/channels/1696331534526ISPHITS.png" group-title="Kinema",ISP Hits 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1469.ts
+#EXTINF:-1 tvg-id="" tvg-name="ISP Popullore" tvg-logo="https://apps.tibo.tv/1/files/channels/1696520125336ISPPOPULLORE.png" group-title="Kinema",ISP Popullore
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/489.ts
+#EXTINF:-1 tvg-id="" tvg-name="ISP Kalamajte" tvg-logo="https://apps.tibo.tv/1/files/channels/1696520040506ISPKALAMAJTE.png" group-title="Kinema",ISP Kalamajte
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1407.ts
+#EXTINF:-1 tvg-id="" tvg-name="ISP Mrekulli" tvg-logo="https://apps.tibo.tv/1/files/channels/1696332464265mrekulli.png" group-title="Kinema",ISP Mrekulli
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1408.ts
+#EXTINF:-1 tvg-id="" tvg-name="ISP Dokumentar" tvg-logo="https://apps.tibo.tv/1/files/channels/1696332703811ISPDOKUMENTAR.png" group-title="Kinema",ISP Dokumentar
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1409.ts
+#EXTINF:-1 tvg-id="" tvg-name="ISP Film" tvg-logo="https://apps.tibo.tv/1/files/channels/1572512604536ISPmusic.png" group-title="Kinema",ISP Film
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1410.ts
+#EXTINF:-1 tvg-id="" tvg-name="ISP Aventura" tvg-logo="https://apps.tibo.tv/1/files/channels/1696332150619aventurat.png" group-title="Kinema",ISP Aventura
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1411.ts
+#EXTINF:-1 tvg-id="" tvg-name="ISP Pikepytje" tvg-logo="https://apps.tibo.tv/1/files/channels/1696331743670ISPPIKEPYETJE.png" group-title="Kinema",ISP Pikepytje
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1412.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELE one 1 HD" tvg-logo="https://play-lh.googleusercontent.com/A0XhIVopstL7O8yCaQ2pi8o9qtToYMM7swSzC8kzB3pPxUi5SA3VtVIPHgxjSQcXRdQ=w240-h480-rw" group-title="Kinema",TELE one 1 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1633.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELE one 2 HD" tvg-logo="https://play-lh.googleusercontent.com/A0XhIVopstL7O8yCaQ2pi8o9qtToYMM7swSzC8kzB3pPxUi5SA3VtVIPHgxjSQcXRdQ=w240-h480-rw" group-title="Kinema",TELE one 2 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1634.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELE one 3 HD" tvg-logo="https://play-lh.googleusercontent.com/A0XhIVopstL7O8yCaQ2pi8o9qtToYMM7swSzC8kzB3pPxUi5SA3VtVIPHgxjSQcXRdQ=w240-h480-rw" group-title="Kinema",TELE one 3 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1635.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELE one 4 HD" tvg-logo="https://play-lh.googleusercontent.com/A0XhIVopstL7O8yCaQ2pi8o9qtToYMM7swSzC8kzB3pPxUi5SA3VtVIPHgxjSQcXRdQ=w240-h480-rw" group-title="Kinema",TELE one 4 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1636.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELE one 5 HD" tvg-logo="https://play-lh.googleusercontent.com/A0XhIVopstL7O8yCaQ2pi8o9qtToYMM7swSzC8kzB3pPxUi5SA3VtVIPHgxjSQcXRdQ=w240-h480-rw" group-title="Kinema",TELE one 5 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1637.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELE one 6 HD" tvg-logo="https://play-lh.googleusercontent.com/A0XhIVopstL7O8yCaQ2pi8o9qtToYMM7swSzC8kzB3pPxUi5SA3VtVIPHgxjSQcXRdQ=w240-h480-rw" group-title="Kinema",TELE one 6 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1638.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELE one Aksion HD" tvg-logo="https://play-lh.googleusercontent.com/tikZclygbd5xoc2t0_5nsW4NwmK_KPxXLlzmnRD50WuBZgHTE528ED3BZQgd54E2FQ=w240-h480-rw" group-title="Kinema",TELE one Aksion HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1346.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELE one Fantazi HD" tvg-logo="https://play-lh.googleusercontent.com/tikZclygbd5xoc2t0_5nsW4NwmK_KPxXLlzmnRD50WuBZgHTE528ED3BZQgd54E2FQ=w240-h480-rw" group-title="Kinema",TELE one Fantazi HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1349.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELE one Epik HD" tvg-logo="https://play-lh.googleusercontent.com/tikZclygbd5xoc2t0_5nsW4NwmK_KPxXLlzmnRD50WuBZgHTE528ED3BZQgd54E2FQ=w240-h480-rw" group-title="Kinema",TELE one Epik HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1352.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELE one Drama HD" tvg-logo="https://play-lh.googleusercontent.com/tikZclygbd5xoc2t0_5nsW4NwmK_KPxXLlzmnRD50WuBZgHTE528ED3BZQgd54E2FQ=w240-h480-rw" group-title="Kinema",TELE one Drama HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1351.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELE one Crime HD" tvg-logo="https://play-lh.googleusercontent.com/tikZclygbd5xoc2t0_5nsW4NwmK_KPxXLlzmnRD50WuBZgHTE528ED3BZQgd54E2FQ=w240-h480-rw" group-title="Kinema",TELE one Crime HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1347.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELE one GOLD Collection HD" tvg-logo="https://play-lh.googleusercontent.com/tikZclygbd5xoc2t0_5nsW4NwmK_KPxXLlzmnRD50WuBZgHTE528ED3BZQgd54E2FQ=w240-h480-rw" group-title="Kinema",TELE one GOLD Collection HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1348.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 1  HD" tvg-logo="https://artmo.norago.tv/img/53x31/4733774659919295019.png" group-title="Kinema",Cinema 1  HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1307.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 2 HD" tvg-logo="https://mw.kujtesa.net/img/upload/7f/ac/88a3-6f27-4f84-b658-68edc19db685.png?resize=53x31" group-title="Kinema",Cinema 2 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1308.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineStar TV1" tvg-logo="https://mw.kujtesa.net/img/upload/16/30/2862-bba8-4154-9f3e-df9c70c93a16.png?resize=53x31" group-title="Kinema",CineStar TV1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1384.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineStar TV2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/CineStar_2_%282023%29.svg/revision/latest?cb=20231214202401" group-title="Kinema",CineStar TV2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1380.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineStar TV Action " tvg-logo="https://mw.kujtesa.net/img/upload/30/7f/077d-d279-4a0e-87e2-ac572a2540c5.png?resize=53x31" group-title="Kinema",CineStar TV Action 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1416.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineStar TV Comedy" tvg-logo="https://mw.kujtesa.net/img/upload/34/9a/6b84-1f00-40a8-ab75-e19ce5c5e15a.png?resize=53x31" group-title="Kinema",CineStar TV Comedy
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1415.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineStar TV Fantasy" tvg-logo="https://mw.kujtesa.net/img/upload/f5/f1/7589-8970-40ef-b575-43838c2d2b0f.png?resize=53x31" group-title="Kinema",CineStar TV Fantasy
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1374.ts
+#EXTINF:-1 tvg-id="" tvg-name="MR.Bean " tvg-logo="https://p7.hiclipart.com/preview/841/453/314/robert-box-youtube-itv-sitcom-cartoon-mr-bean.jpg" group-title="Kinema",MR.Bean 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1263.ts
+#EXTINF:-1 tvg-id="" tvg-name="MR.Bean Animated " tvg-logo="https://p7.hiclipart.com/preview/841/453/314/robert-box-youtube-itv-sitcom-cartoon-mr-bean.jpg" group-title="Kinema",MR.Bean Animated 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1641.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Max" tvg-logo="https://artmo.norago.tv/img/53x31/8211801222573641985.png" group-title="Kinema",Sky Max
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/488.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Komedi" tvg-logo="https://mw.kujtesa.net/img/upload/21/32/4c4c-74bb-4d3a-a7bd-ebf9b57992e7.jpg?resize=53x31" group-title="Kinema",Sky Komedi
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/487.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Aksion" tvg-logo="https://artmo.norago.tv/img/53x31/5110358338743006272.png" group-title="Kinema",Sky Aksion
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/486.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Shqip" tvg-logo="https://artmo.norago.tv/img/53x31/5357236114067272624.png" group-title="Kinema",Sky Shqip
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/490.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Novela" tvg-logo="https://artmo.norago.tv/img/resize/53x31/1313270707435019300.png" group-title="Kinema",Sky Novela
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/481.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Planet" tvg-logo="" group-title="Kinema",Sky Planet
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/338.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Geo " tvg-logo="" group-title="Kinema",Sky Geo 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/484.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Galaxy HD" tvg-logo="" group-title="Kinema",Sky Galaxy HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/485.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOP-ONE Aksion" tvg-logo="https://play-lh.googleusercontent.com/HgkSv9ZQOyoKUJXCj2uSFltxu6gvY_vKb5oPoa6-mgVYXes50A_yVPgDsUIsZlwbJRY=w240-h480-rw" group-title="Kinema",TOP-ONE Aksion
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/710.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOP-ONE Komedi" tvg-logo="https://play-lh.googleusercontent.com/HgkSv9ZQOyoKUJXCj2uSFltxu6gvY_vKb5oPoa6-mgVYXes50A_yVPgDsUIsZlwbJRY=w240-h480-rw" group-title="Kinema",TOP-ONE Komedi
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1012.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOP-ONE Fantazi" tvg-logo="https://play-lh.googleusercontent.com/HgkSv9ZQOyoKUJXCj2uSFltxu6gvY_vKb5oPoa6-mgVYXes50A_yVPgDsUIsZlwbJRY=w240-h480-rw" group-title="Kinema",TOP-ONE Fantazi
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1386.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOP-ONE Aventure" tvg-logo="https://play-lh.googleusercontent.com/HgkSv9ZQOyoKUJXCj2uSFltxu6gvY_vKb5oPoa6-mgVYXes50A_yVPgDsUIsZlwbJRY=w240-h480-rw" group-title="Kinema",TOP-ONE Aventure
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1013.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOP-ONE Crime" tvg-logo="https://play-lh.googleusercontent.com/HgkSv9ZQOyoKUJXCj2uSFltxu6gvY_vKb5oPoa6-mgVYXes50A_yVPgDsUIsZlwbJRY=w240-h480-rw" group-title="Kinema",TOP-ONE Crime
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/721.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOP-ONE Horror" tvg-logo="https://play-lh.googleusercontent.com/HgkSv9ZQOyoKUJXCj2uSFltxu6gvY_vKb5oPoa6-mgVYXes50A_yVPgDsUIsZlwbJRY=w240-h480-rw" group-title="Kinema",TOP-ONE Horror
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1014.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOP-ONE Mix" tvg-logo="https://play-lh.googleusercontent.com/HgkSv9ZQOyoKUJXCj2uSFltxu6gvY_vKb5oPoa6-mgVYXes50A_yVPgDsUIsZlwbJRY=w240-h480-rw" group-title="Kinema",TOP-ONE Mix
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/711.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dark Netflix 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Netflix_icon.svg" group-title="Kinema",Dark Netflix 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1115.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dark Netflix 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Netflix_icon.svg" group-title="Kinema",Dark Netflix 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1116.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dark Netflix 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Netflix_icon.svg" group-title="Kinema",Dark Netflix 3
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1117.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dark Netflix 4  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Netflix_icon.svg" group-title="Kinema",Dark Netflix 4  
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1118.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dark Fantazi" tvg-logo="https://www.theatrealberta.com/wp-content/uploads/2022/06/DARK-logo-1-300x169.png" group-title="Kinema",Dark Fantazi
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1385.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Dark Sci Fi" tvg-logo="https://www.theatrealberta.com/wp-content/uploads/2022/06/DARK-logo-1-300x169.png" group-title="Kinema", Dark Sci Fi
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1119.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dark Horror" tvg-logo="https://www.theatrealberta.com/wp-content/uploads/2022/06/DARK-logo-1-300x169.png" group-title="Kinema",Dark Horror
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1391.ts
+#EXTINF:-1 tvg-id="a045" tvg-name="Dark Romance" tvg-logo="https://www.theatrealberta.com/wp-content/uploads/2022/06/DARK-logo-1-300x169.png" group-title="Kinema",Dark Romance
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/37.ts
+#EXTINF:-1 tvg-id="ABC News" tvg-name="Dark Western" tvg-logo="https://www.theatrealberta.com/wp-content/uploads/2022/06/DARK-logo-1-300x169.png" group-title="Kinema",Dark Western
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/179.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dark Classic " tvg-logo="https://www.theatrealberta.com/wp-content/uploads/2022/06/DARK-logo-1-300x169.png" group-title="Kinema",Dark Classic 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1458.ts
+#EXTINF:-1 tvg-id="20 MEDIASET HD" tvg-name="SuperSport 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/SS1-Albania.jpg/revision/latest?cb=20160805101035" group-title="Sportive",SuperSport 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/78.ts
+#EXTINF:-1 tvg-id="SS-2 HD" tvg-name="SuperSport 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SS2-Albania.jpg/revision/latest?cb=20160805102138" group-title="Sportive",SuperSport 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/79.ts
+#EXTINF:-1 tvg-id="SS-3 HD" tvg-name="SuperSport 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/SS3-Albania.jpg/revision/latest?cb=20160805102748" group-title="Sportive",SuperSport 3
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/80.ts
+#EXTINF:-1 tvg-id="SS-4 HD" tvg-name="SuperSport 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/SS4-Albania.jpg/revision/latest?cb=20160805103409" group-title="Sportive",SuperSport 4
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/81.ts
+#EXTINF:-1 tvg-id="Bang Bang" tvg-name="SuperSport 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/SS5-Albania.jpg/revision/latest?cb=20160805104207" group-title="Sportive",SuperSport 5
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/82.ts
+#EXTINF:-1 tvg-id="SS-6 HD" tvg-name="SuperSport 6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/SS6-Albania.png/revision/latest?cb=20160806090754" group-title="Sportive",SuperSport 6
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/83.ts
+#EXTINF:-1 tvg-id="SuperSport.1.al" tvg-name="SuperSport 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/SS1-Albania.jpg/revision/latest?cb=20160805101035" group-title="Sportive",SuperSport 1 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/84.ts
+#EXTINF:-1 tvg-id="SuperSport.2.al" tvg-name="SuperSport 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SS2-Albania.jpg/revision/latest?cb=20160805102138" group-title="Sportive",SuperSport 2 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/85.ts
+#EXTINF:-1 tvg-id="SuperSport.3.al" tvg-name="SuperSport 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/SS3-Albania.jpg/revision/latest?cb=20160805102748" group-title="Sportive",SuperSport 3 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/86.ts
+#EXTINF:-1 tvg-id="Bang Bang" tvg-name="SuperSport 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/SS4-Albania.jpg/revision/latest?cb=20160805103409" group-title="Sportive",SuperSport 4 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/87.ts
+#EXTINF:-1 tvg-id="SS-5 HD" tvg-name="SuperSport 5 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/SS5-Albania.jpg/revision/latest?cb=20160805104207" group-title="Sportive",SuperSport 5 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/88.ts
+#EXTINF:-1 tvg-id="ss5-hd" tvg-name="SuperSport 6 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/SS6-Albania.png/revision/latest?cb=20160806090754" group-title="Sportive",SuperSport 6 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/89.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport 7 HD" tvg-logo="https://mw.kujtesa.net/img/upload/2f/5b/6178-11a5-4bc8-87c0-1c51ca24c642.png?resize=53x31" group-title="Sportive",SuperSport 7 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1399.ts
+#EXTINF:-1 tvg-id="tsportnews" tvg-name="Tring Sport News" tvg-logo="https://nimi.norago.tv/img/resize/53x31/fb71798a-240c-4fba-944a-160ff08473c7.png" group-title="Sportive",Tring Sport News
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/92.ts
+#EXTINF:-1 tvg-id="20 MEDIASET HD" tvg-name="Tring Sport Serie A" tvg-logo="https://nimi.norago.tv/img/resize/53x31/443624ee-94f0-499c-8174-24ae8d31a000.png" group-title="Sportive",Tring Sport Serie A
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1354.ts
+#EXTINF:-1 tvg-id="20 MEDIASET HD" tvg-name="Tring Sport 1 HD" tvg-logo="https://nimi.norago.tv/img/resize/53x31/443624ee-94f0-499c-8174-24ae8d31a000.png" group-title="Sportive",Tring Sport 1 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/93.ts
+#EXTINF:-1 tvg-id="20 MEDIASET HD" tvg-name="Tring Sport 2 HD" tvg-logo="https://nimi.norago.tv/img/resize/53x31/8f807bad-8a60-453b-a227-811ffdc7a4f5.png" group-title="Sportive",Tring Sport 2 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/94.ts
+#EXTINF:-1 tvg-id="20 MEDIASET HD" tvg-name="Tring Sport 3 HD" tvg-logo="https://nimi.norago.tv/img/resize/53x31/43704e30-df00-489c-85d4-36e46964387d.png" group-title="Sportive",Tring Sport 3 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/95.ts
+#EXTINF:-1 tvg-id="20 MEDIASET HD" tvg-name="Tring Sport 4 HD" tvg-logo="https://nimi.norago.tv/img/resize/53x31/fb984d5b-0670-4d87-8bad-7a1af2363a10.png" group-title="Sportive",Tring Sport 4 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/96.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 5 HD" tvg-logo="https://nimi.norago.tv/img/upload/d0/5e/6e80-2815-461b-bc20-bc66375e2657.png?resize=53x31" group-title="Sportive",Tring Sport 5 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1463.ts
+#EXTINF:-1 tvg-id="MAXHD" tvg-name="Tring Sport 6 HD" tvg-logo="https://nimi.norago.tv/img/upload/a0/1b/9b56-4876-48bc-a8c4-13c5779e84ca.png?resize=53x31" group-title="Sportive",Tring Sport 6 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/41.ts
+#EXTINF:-1 tvg-id="GoldHD" tvg-name="Tring Sport 7 HD" tvg-logo="https://nimi.norago.tv/img/upload/ed/4e/1400-4cfe-442b-b0b9-2aa7ab10c877.png?resize=53x31" group-title="Sportive",Tring Sport 7 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/39.ts
+#EXTINF:-1 tvg-id="" tvg-name="FSHF TV" tvg-logo="https://fshf.org/wp-content/uploads/2020/06/background-FSHF_3.jpg" group-title="Sportive",FSHF TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1473.ts
+#EXTINF:-1 tvg-id="Sport1.xk" tvg-name="Sport 1" tvg-logo="https://artmo.norago.tv/img/upload/12/b2/911f-c91f-4466-817e-0f9c7b10c7d7.png?resize=53x31" group-title="Sportive",Sport 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/785.ts
+#EXTINF:-1 tvg-id="Sport2.xk" tvg-name="Sport 2" tvg-logo="https://artmo.norago.tv/img/upload/09/25/e14b-f526-4bdd-8956-e6bf87de87d6.png?resize=53x31" group-title="Sportive",Sport 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/786.ts
+#EXTINF:-1 tvg-id="ABC News" tvg-name="Sport 3" tvg-logo="https://artmo.norago.tv/img/upload/7d/8a/36a2-4b72-408f-8bcd-b8a30bcb40c8.png?resize=53x31" group-title="Sportive",Sport 3
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/787.ts
+#EXTINF:-1 tvg-id="ABC News" tvg-name="Sport 4" tvg-logo="https://artmo.norago.tv/img/upload/ab/91/65c4-fd6a-452c-a0dd-ec3cae43b124.png?resize=53x31" group-title="Sportive",Sport 4
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1098.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport 5" tvg-logo="https://artmo.norago.tv/img/upload/4a/77/24d9-511a-4753-ba55-7ee5f14cecbe.png?resize=53x31" group-title="Sportive",Sport 5
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1099.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport 6" tvg-logo="https://artmo.norago.tv/img/upload/c1/9b/6fbc-5fee-4f1a-b70e-12202a370c85.png?resize=53x31" group-title="Sportive",Sport 6
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1100.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="" group-title="Sportive",Eurosport 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/121.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="http://ontv.al/app/images/eurosport2.png" group-title="Sportive",Eurosport 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/122.ts
+#EXTINF:-1 tvg-id="My Music" tvg-name="My Music" tvg-logo="http://ontv.al/app/images/66520_mymusic.jpg" group-title="Muzike",My Music
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/65.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Plus" tvg-logo="https://artmo.norago.tv/img/53x31/9113582221543467160.png" group-title="Muzike",RTV 21 Plus
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/70.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Mix" tvg-logo="https://artmo.norago.tv/img/53x31/4585033094757063032.png" group-title="Muzike",RTV 21 Mix
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/168.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Popullore" tvg-logo="http://ontv.al/app/images/21popullore.png" group-title="Muzike",RTV 21 Popullore
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/71.ts
+#EXTINF:-1 tvg-id="A2 CNN" tvg-name="RTV 21 Macedonia" tvg-logo="https://artmo.norago.tv/img/53x31/6183861871731718544.png" group-title="DigitAlb",RTV 21 Macedonia
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/869.ts
+#EXTINF:-1 tvg-id="" tvg-name="Turbo Channel" tvg-logo="https://artmo.norago.tv/img/53x31/3829254861239201843.png" group-title="Muzike",Turbo Channel
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/542.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Mergata" tvg-logo="" group-title="Muzike",TV Mergata
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1650.ts
+#EXTINF:-1 tvg-id="FirstChannel.rs" tvg-name="First Channel" tvg-logo="https://artmo.norago.tv/img/53x31/8387402848368670293.png" group-title="DigitAlb",First Channel
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/22.ts
+#EXTINF:-1 tvg-id="SuperSonic TV" tvg-name=" TV Prizreni" tvg-logo="https://artmo.norago.tv/img/53x31/6454928902332612802.png" group-title="Lokale", TV Prizreni
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/120.ts
+#EXTINF:-1 tvg-id="" tvg-name="Istogu Channel" tvg-logo="https://nimi.norago.tv/img/resize/53x31/5150992685322389412.png" group-title="Lokale",Istogu Channel
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1273.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Istogu" tvg-logo="" group-title="Lokale",TV Istogu
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1274.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV Fontana" tvg-logo="https://nimi.norago.tv/img/resize/53x31/2714644722716692100.jpg" group-title="Muzike",RTV Fontana
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/341.ts
+#EXTINF:-1 tvg-id="A2 CNN" tvg-name="Melody TV" tvg-logo="https://artmo.norago.tv/img/resize/53x31/fe08ac69-5824-40cb-8687-dae9546abb1f.PNG" group-title="Muzike",Melody TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/73.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amol TV" tvg-logo="" group-title="DigitAlb",Amol TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1644.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tirana 1" tvg-logo="" group-title="DigitAlb",Tirana 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1647.ts
+#EXTINF:-1 tvg-id="" tvg-name="Click Channel" tvg-logo="https://artmo.norago.tv/img/resize/53x31/af5a86e6-73b6-49e9-ad93-6ce58e2475bb.png" group-title="Muzike",Click Channel
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/512.ts
+#EXTINF:-1 tvg-id="A2 CNN" tvg-name="Klan Music" tvg-logo="https://apps.tibo.tv/1/files/channels/1725281700798klanmusic240x240.png" group-title="Muzike",Klan Music
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1336.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBF Music" tvg-logo="https://apps.tibo.tv/files/channel_img/Bbf.png" group-title="Muzike",BBF Music
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/66.ts
+#EXTINF:-1 tvg-id="elrodimemlisht" tvg-name="Elrodi" tvg-logo="https://apps.tibo.tv/files/channel_img/Elrodi_Tv.png" group-title="Muzike",Elrodi
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/343.ts
+#EXTINF:-1 tvg-id="folkplusmemlisht" tvg-name="Folk Plus" tvg-logo="https://artmo.norago.tv/img/resize/53x31/f5bbd61a-c589-45bd-943b-c2e29aa1a507.png" group-title="Muzike",Folk Plus
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/72.ts
+#EXTINF:-1 tvg-id="A2 CNN" tvg-name="Zjarr TV" tvg-logo="https://artmo.norago.tv/img/upload/38/48/fdf0-e7f6-4c5e-b1f4-7cf669632214.png?resize=53x31" group-title="DigitAlb",Zjarr TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/298.ts
+#EXTINF:-1 tvg-id="" tvg-name="DTV" tvg-logo="https://artmo.norago.tv/img/upload/29/c3/44a2-e46a-4d2c-b312-0675ddf9b7a6.png?resize=53x31" group-title="Lokale",DTV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/68.ts
+#EXTINF:-1 tvg-id="" tvg-name="Alb UK " tvg-logo="https://mw.nimitv.net/img/53x31/2867595528440425428.png" group-title="Kinema",Alb UK 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/749.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Kosova" tvg-logo="https://artmo.norago.tv/img/53x31/9009593784502067389.png" group-title="Muzike",MTV Kosova
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/255.ts
+#EXTINF:-1 tvg-id="" tvg-name="Syri Blue HD" tvg-logo="https://nimi.norago.tv/img/resize/53x31/8713208291405001020.png" group-title="Muzike",Syri Blue HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/543.ts
+#EXTINF:-1 tvg-id="ZicoTV.rs" tvg-name="Zico HD" tvg-logo="https://artmo.norago.tv/img/53x31/628797427190956274.png" group-title="Muzike",Zico HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1389.ts
+#EXTINF:-1 tvg-id="" tvg-name="Folklorik" tvg-logo="" group-title="Muzike",Folklorik
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1397.ts
+#EXTINF:-1 tvg-id="" tvg-name="Shqiponja TV " tvg-logo="https://zjarr.tv/wp-content/uploads/2019/11/Shqiponja.jpg" group-title="Muzike",Shqiponja TV 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1474.ts
+#EXTINF:-1 tvg-id="" tvg-name="Apollon TV" tvg-logo="https://nimi.norago.tv/img/resize/53x31/5088089574909554356.png" group-title="Lokale",Apollon TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1398.ts
+#EXTINF:-1 tvg-id="" tvg-name="Boin HD" tvg-logo="https://artmo.norago.tv/img/resize/53x31/2678669102344852589.png" group-title="Lokale",Boin HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1427.ts
+#EXTINF:-1 tvg-id="" tvg-name="Albania Tv Chicago HD" tvg-logo="https://nimi.norago.tv/img/resize/53x31/6219070109500734235.png" group-title="Lokale",Albania Tv Chicago HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1400.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tropoja TV" tvg-logo="https://www.facebook.com/photo/?fbid=495382642593162&set=a.495382599259833&__tn__=%3C" group-title="Lokale",Tropoja TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1402.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Johaniter" tvg-logo="https://apps.tibo.tv/1/files/channels/1588158684715JohaniterTV.png" group-title="Lokale",TV Johaniter
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1396.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bulevard TV" tvg-logo="" group-title="Lokale",Bulevard TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1658.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globe TV " tvg-logo="https://apps.tibo.tv/1/files/channels/1666279184115GLOBETV.png" group-title="Muzike",Globe TV 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1472.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Teuta" tvg-logo="https://artmo.norago.tv/img/resize/53x31/2295232729391529848.png" group-title="Lokale",TV Teuta
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1277.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Ulqini HD" tvg-logo="https://nimi.norago.tv/img/53x31/8808704239445502629.png" group-title="Lokale",TV Ulqini HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1270.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Albswiss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Alb%27swiss.jpg" group-title="Muzike",TV Albswiss
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1403.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Opoja" tvg-logo="http://ontv.al/app/images/71497_tvopoja.png" group-title="Lokale",TV Opoja
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/123.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Besa" tvg-logo="https://artmo.norago.tv/img/53x31/9050766176347657688.png" group-title="Lokale",TV Besa
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/291.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star TV Channel" tvg-logo="" group-title="Lokale",Star TV Channel
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1640.ts
+#EXTINF:-1 tvg-id="" tvg-name="Shijak TV" tvg-logo="" group-title="Lokale",Shijak TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1643.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Liria" tvg-logo="https://artmo.norago.tv/img/53x31/7620282204678306362.png" group-title="Lokale",TV Liria
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/523.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Dielli" tvg-logo="https://artmo.norago.tv/img/53x31/3065923811981046808.png" group-title="Muzike",TV Dielli
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/507.ts
+#EXTINF:-1 tvg-id="" tvg-name="Syri Vizion" tvg-logo="https://artmo.norago.tv/img/resize/53x31/7629178997328594055.png" group-title="Lokale",Syri Vizion
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/254.ts
+#EXTINF:-1 tvg-id="" tvg-name="Drita TV" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/DritaTV_logo_5ac42e573ce10_thumb.jpg" group-title="Lokale",Drita TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1404.ts
+#EXTINF:-1 tvg-id="" tvg-name="Peace TV" tvg-logo="" group-title="Lokale",Peace TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1630.ts
+#EXTINF:-1 tvg-id="" tvg-name="_______ Kanale Italiane _______" tvg-logo="" group-title="General Streams",_______ Kanale Italiane _______
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/797.ts
+#EXTINF:-1 tvg-id="a045" tvg-name="IT: Rai 1 HD" tvg-logo="" group-title="Italia",IT: Rai 1 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/632.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 2 HD" tvg-logo="" group-title="Italia",IT: Rai 2 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/633.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 3 HD" tvg-logo="" group-title="Italia",IT: Rai 3 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/634.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 4 HD" tvg-logo="" group-title="Italia",IT: Rai 4 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/635.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 5 HD" tvg-logo="" group-title="Italia",IT: Rai 5 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/636.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Italia 1 HD" tvg-logo="" group-title="Italia",IT: Italia 1 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/637.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Canale 5 HD" tvg-logo="" group-title="Italia",IT: Canale 5 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/638.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rete 4 HD" tvg-logo="" group-title="Italia",IT: Rete 4 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/639.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Premium" tvg-logo="" group-title="Italia",IT: Rai Premium
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/645.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Movie" tvg-logo="" group-title="Italia",IT: Rai Movie
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/644.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Yoyo" tvg-logo="" group-title="Italia",IT: Rai Yoyo
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/647.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Storia" tvg-logo="" group-title="Italia",IT: Rai Storia
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1031.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Scuola" tvg-logo="" group-title="Italia",IT: Rai Scuola
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1027.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai News" tvg-logo="" group-title="Italia",IT: Rai News
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/646.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Gulp" tvg-logo="" group-title="Italia",IT: Rai Gulp
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/648.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky TG24" tvg-logo="" group-title="Italia",IT: Sky TG24
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/649.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Il Sole 24 Ore TV" tvg-logo="" group-title="Italia",IT: Il Sole 24 Ore TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1685.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: TGcom24" tvg-logo="" group-title="Italia",IT: TGcom24
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1030.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Nove" tvg-logo="" group-title="Italia",IT: Nove
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1028.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: La 5 HD" tvg-logo="" group-title="Italia",IT: La 5 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/651.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: La 7 HD" tvg-logo="" group-title="Italia",IT: La 7 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/650.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: La 7 Cinema" tvg-logo="" group-title="Italia",IT: La 7 Cinema
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1029.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Cine34" tvg-logo="" group-title="Italia",IT: Cine34
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1628.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: 27Twentyseven" tvg-logo="" group-title="Italia",IT: 27Twentyseven
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1629.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: TV8" tvg-logo="" group-title="Italia",IT: TV8
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/871.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Top Crime" tvg-logo="" group-title="Italia",IT: Top Crime
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/653.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Real Time" tvg-logo="" group-title="Italia",IT: Real Time
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/685.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Iris" tvg-logo="" group-title="Italia",IT: Iris
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/652.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Italia 2" tvg-logo="" group-title="Italia",IT: Italia 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/663.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Giallo HD" tvg-logo="" group-title="Italia",IT: Giallo HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1674.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: TV2000 HD" tvg-logo="" group-title="Italia",IT: TV2000 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1675.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Focus HD" tvg-logo="" group-title="Italia",IT: Focus HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1682.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: RSI LA 1" tvg-logo="" group-title="Italia",IT: RSI LA 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/661.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: RSI LA 2" tvg-logo="" group-title="Italia",IT: RSI LA 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/662.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Cielo" tvg-logo="" group-title="Italia",IT: Cielo
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/946.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Fano TV" tvg-logo="" group-title="Italia",IT: Fano TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1620.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Mediaset Extra" tvg-logo="" group-title="Italia",IT: Mediaset Extra
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/654.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Mediaset 20" tvg-logo="" group-title="Italia",IT: Mediaset 20
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/880.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Grande Fratello VIP 1" tvg-logo="" group-title="Italia",IT: Grande Fratello VIP 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1467.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Grande Fratello VIP 2" tvg-logo="" group-title="Italia",IT: Grande Fratello VIP 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1468.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Uno" tvg-logo="" group-title="Italia",IT: Sky Cinema Uno
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/359.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Due" tvg-logo="" group-title="Italia",IT: Sky Cinema Due
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/457.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Action HD" tvg-logo="" group-title="Italia",IT: Sky Cinema Action HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/453.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Comedy" tvg-logo="" group-title="Italia",IT: Sky Cinema Comedy
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/455.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Romance" tvg-logo="" group-title="Italia",IT: Sky Cinema Romance
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/458.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Suspense" tvg-logo="" group-title="Italia",IT: Sky Cinema Suspense
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/945.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Drama" tvg-logo="" group-title="Italia",IT: Sky Cinema Drama
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/573.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Family HD" tvg-logo="" group-title="Italia",IT: Sky Cinema Family HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/454.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Collection HD" tvg-logo="" group-title="Italia",IT: Sky Cinema Collection HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/456.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Investigation" tvg-logo="" group-title="Italia",IT: Sky Investigation
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1671.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Documentaries" tvg-logo="" group-title="Italia",IT: Sky Documentaries
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1672.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Adventure" tvg-logo="" group-title="Italia",IT: Sky Adventure
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1673.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Atlantic HD" tvg-logo="" group-title="Italia",IT: Sky Atlantic HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/570.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Uno HD" tvg-logo="" group-title="Italia",IT: Sky Uno HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/664.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Serie HD" tvg-logo="" group-title="Italia",IT: Sky Serie HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/703.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Atlantic +1" tvg-logo="" group-title="Italia",IT: Sky Atlantic +1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1662.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Arte HD" tvg-logo="" group-title="Italia",IT: Sky Arte HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/677.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Nature HD" tvg-logo="" group-title="Italia",IT: Sky Nature HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1305.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Uno HD" tvg-logo="" group-title="Italia",IT: Sky Sport Uno HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/816.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Calcio HD" tvg-logo="" group-title="Italia",IT: Sky Sport Calcio HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/841.ts
+#EXTINF:-1 tvg-id="a045" tvg-name="IT: Sky Sport Arena HD" tvg-logo="" group-title="Italia",IT: Sky Sport Arena HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/356.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Max HD" tvg-logo="" group-title="Italia",IT: Sky Sport Max HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1304.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport 24 HD" tvg-logo="" group-title="Italia",IT: Sky Sport 24 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/311.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Bar HD" tvg-logo="" group-title="Italia",IT: Sky Sport Bar HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/357.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport F1 HD" tvg-logo="" group-title="Italia",IT: Sky Sport F1 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/665.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport MotoGP HD" tvg-logo="" group-title="Italia",IT: Sky Sport MotoGP HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/448.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Tennis HD" tvg-logo="" group-title="Italia",IT: Sky Sport Tennis HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1123.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Legend HD" tvg-logo="" group-title="Italia",IT: Sky Sport Legend HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1591.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport NBA HD" tvg-logo="" group-title="Italia",IT: Sky Sport NBA HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/666.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport 251" tvg-logo="" group-title="Italia",IT: Sky Sport 251
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/837.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport 252" tvg-logo="" group-title="Italia",IT: Sky Sport 252
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/852.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport 253" tvg-logo="" group-title="Italia",IT: Sky Sport 253
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/853.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport 254" tvg-logo="" group-title="Italia",IT: Sky Sport 254
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/854.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport 255" tvg-logo="" group-title="Italia",IT: Sky Sport 255
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1459.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport 256" tvg-logo="" group-title="Italia",IT: Sky Sport 256
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1460.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport 257" tvg-logo="" group-title="Italia",IT: Sky Sport 257
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1461.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport 258" tvg-logo="" group-title="Italia",IT: Sky Sport 258
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1462.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Amazon Prime Video" tvg-logo="" group-title="Italia",IT: Amazon Prime Video
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1295.ts
+#EXTINF:-1 tvg-id="21.Junior.al" tvg-name="IT: DAZN " tvg-logo="https://gigipicons.top/images/f584a79e2986a9224dde834691202700.png" group-title="Italia",IT: DAZN 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1306.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN 1 " tvg-logo="https://img.restream.re/images/logos/l3-dazn-laliga-full-ed4b14fc.png" group-title="Italia",IT: DAZN 1 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/839.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN 2 " tvg-logo="https://img.restream.re/images/logos/l3-dazn-laliga-full-ed4b14fc.png" group-title="Italia",IT: DAZN 2 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/840.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN 3 " tvg-logo="https://img.restream.re/images/logos/l3-dazn-laliga-full-ed4b14fc.png" group-title="Italia",IT: DAZN 3 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1293.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN 4 " tvg-logo="https://img.restream.re/images/logos/l3-dazn-laliga-full-ed4b14fc.png" group-title="Italia",IT: DAZN 4 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1294.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN 5" tvg-logo="https://img.restream.re/images/logos/l3-dazn-laliga-full-ed4b14fc.png" group-title="Italia",IT: DAZN 5
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1653.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN 6" tvg-logo="https://img.restream.re/images/logos/l3-dazn-laliga-full-ed4b14fc.png" group-title="Italia",IT: DAZN 6
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1707.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN 7" tvg-logo="https://img.restream.re/images/logos/l3-dazn-laliga-full-ed4b14fc.png" group-title="Italia",IT: DAZN 7
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1708.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN 8" tvg-logo="https://img.restream.re/images/logos/l3-dazn-laliga-full-ed4b14fc.png" group-title="Italia",IT: DAZN 8
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1709.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN 9" tvg-logo="https://img.restream.re/images/logos/l3-dazn-laliga-full-ed4b14fc.png" group-title="Italia",IT: DAZN 9
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1710.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN 10" tvg-logo="https://img.restream.re/images/logos/l3-dazn-laliga-full-ed4b14fc.png" group-title="Italia",IT: DAZN 10
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1711.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Eurosport 1" tvg-logo="" group-title="Italia",IT: Eurosport 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1001.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Eurosport  2" tvg-logo="" group-title="Italia",IT: Eurosport  2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1002.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sportitalia" tvg-logo="" group-title="Italia",IT: Sportitalia
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/872.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sportitalia SoloCalcio" tvg-logo="" group-title="Italia",IT: Sportitalia SoloCalcio
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1684.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Primavera 1 TV" tvg-logo="" group-title="Italia",IT: Primavera 1 TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1683.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Sport" tvg-logo="" group-title="Italia",IT: Rai Sport
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/684.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Inter Channel" tvg-logo="" group-title="Italia",IT: Inter Channel
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/667.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Milan TV " tvg-logo="" group-title="Italia",IT: Milan TV 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/668.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Juventus Channel" tvg-logo="" group-title="Italia",IT: Juventus Channel
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1665.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Lazio Style Channel" tvg-logo="" group-title="Italia",IT: Lazio Style Channel
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1664.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Top Calcio24" tvg-logo="" group-title="Italia",IT: Top Calcio24
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1669.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: SuperTennis" tvg-logo="" group-title="Italia",IT: SuperTennis
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1670.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: MTV HD" tvg-logo="" group-title="Italia",IT: MTV HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/855.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: RTL 102.5" tvg-logo="" group-title="Italia",IT: RTL 102.5
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/881.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Gambero Rosso" tvg-logo="" group-title="Italia",IT: Gambero Rosso
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/875.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: M2O" tvg-logo="" group-title="Italia",IT: M2O
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1677.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Radio Kiss Kiss TV" tvg-logo="" group-title="Italia",IT: Radio Kiss Kiss TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1681.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Radio Italia TV" tvg-logo="" group-title="Italia",IT: Radio Italia TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/883.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Deejay" tvg-logo="" group-title="Italia",IT: Deejay
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/882.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Boomerang" tvg-logo="" group-title="Italia",IT: Boomerang
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/948.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DeA Kids" tvg-logo="" group-title="Italia",IT: DeA Kids
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/655.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Nickelodeon" tvg-logo="" group-title="Italia",IT: Nickelodeon
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/877.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Cartoon Network" tvg-logo="" group-title="Italia",IT: Cartoon Network
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/878.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Cartoonito" tvg-logo="" group-title="Italia",IT: Cartoonito
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/657.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Super" tvg-logo="" group-title="Italia",IT: Super
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/659.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Frisbee" tvg-logo="" group-title="Italia",IT: Frisbee
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/658.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Boing" tvg-logo="" group-title="Italia",IT: Boing
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/656.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Boing Plus" tvg-logo="" group-title="Italia",IT: Boing Plus
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1668.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: K2" tvg-logo="" group-title="Italia",IT: K2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/660.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Discovery Channel HD" tvg-logo="" group-title="Italia",IT: Discovery Channel HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/873.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Discovery Home&Garden" tvg-logo="" group-title="Italia",IT: Discovery Home&Garden
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1666.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Discovery Turbo" tvg-logo="" group-title="Italia",IT: Discovery Turbo
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1667.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Food Network" tvg-logo="" group-title="Italia",IT: Food Network
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1680.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Comedy Central" tvg-logo="" group-title="Italia",IT: Comedy Central
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1678.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: History" tvg-logo="" group-title="Italia",IT: History
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/874.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: DMAX IT" tvg-logo="" group-title="Italia",IT: DMAX IT
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/947.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Italian Fishing Tv" tvg-logo="" group-title="Italia",IT: Italian Fishing Tv
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1676.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Caccia & Pesca" tvg-logo="" group-title="Italia",IT: Caccia & Pesca
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1679.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Primafila 1 HD" tvg-logo="" group-title="Italia",IT: Sky Primafila 1 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1032.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Primafila 2 HD" tvg-logo="" group-title="Italia",IT: Sky Primafila 2 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1033.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Primafila 3 HD" tvg-logo="" group-title="Italia",IT: Sky Primafila 3 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1034.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Primafila 4 HD" tvg-logo="" group-title="Italia",IT: Sky Primafila 4 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1035.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Primafila 5 HD" tvg-logo="" group-title="Italia",IT: Sky Primafila 5 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1036.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Primafila 6 HD" tvg-logo="" group-title="Italia",IT: Sky Primafila 6 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1037.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Primafila 7 HD" tvg-logo="" group-title="Italia",IT: Sky Primafila 7 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1038.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Primafila 8 HD" tvg-logo="" group-title="Italia",IT: Sky Primafila 8 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1039.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Primafila 9 HD" tvg-logo="" group-title="Italia",IT: Sky Primafila 9 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1040.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Primafila 10 HD" tvg-logo="" group-title="Italia",IT: Sky Primafila 10 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1041.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Primafila 11 HD" tvg-logo="" group-title="Italia",IT: Sky Primafila 11 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1698.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Primafila 12 HD" tvg-logo="" group-title="Italia",IT: Sky Primafila 12 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1699.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Primafila 13 HD" tvg-logo="" group-title="Italia",IT: Sky Primafila 13 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1700.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Primafila 14 HD" tvg-logo="" group-title="Italia",IT: Sky Primafila 14 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1701.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Primafila 15 HD" tvg-logo="" group-title="Italia",IT: Sky Primafila 15 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1702.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Primafila 16 HD" tvg-logo="" group-title="Italia",IT: Sky Primafila 16 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1703.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Primafila 17 HD" tvg-logo="" group-title="Italia",IT: Sky Primafila 17 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1704.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Primafila 18 HD" tvg-logo="" group-title="Italia",IT: Sky Primafila 18 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1705.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Cinema Italiano" tvg-logo="" group-title="Italia",IT: Cinema Italiano
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1639.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Cine Western " tvg-logo="" group-title="Italia",IT: Cine Western 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1642.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Cinema Animazione HD" tvg-logo="" group-title="Italia",IT: Cinema Animazione HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1686.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Cinema Avventura HD" tvg-logo="" group-title="Italia",IT: Cinema Avventura HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1687.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Cinema Azione  HD" tvg-logo="" group-title="Italia",IT: Cinema Azione  HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1688.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Cinema Mitologia" tvg-logo="" group-title="Italia",IT: Cinema Mitologia
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1689.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Cinema Comico HD" tvg-logo="" group-title="Italia",IT: Cinema Comico HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1690.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Cinema Commedia HD" tvg-logo="" group-title="Italia",IT: Cinema Commedia HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1691.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Cinema Marvel HD" tvg-logo="" group-title="Italia",IT: Cinema Marvel HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1692.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Cinema Horror HD" tvg-logo="" group-title="Italia",IT: Cinema Horror HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1693.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Cinema Storico HD" tvg-logo="" group-title="Italia",IT: Cinema Storico HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1694.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Cinema Thriller HD" tvg-logo="" group-title="Italia",IT: Cinema Thriller HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1695.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Cinema Western HD" tvg-logo="" group-title="Italia",IT: Cinema Western HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1696.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Cinema Fantascienza HD" tvg-logo="" group-title="Italia",IT: Cinema Fantascienza HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1697.ts
+#EXTINF:-1 tvg-id="" tvg-name="_______ SKY DE _______" tvg-logo="" group-title="Germany",_______ SKY DE _______
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/795.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Das Erste HD" tvg-logo="" group-title="Germany",DE: Das Erste HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/125.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF HD" tvg-logo="" group-title="Germany",DE: ZDF HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/126.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF Info" tvg-logo="" group-title="Germany",DE: ZDF Info
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/916.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF Neo" tvg-logo="" group-title="Germany",DE: ZDF Neo
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/917.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Vox HD" tvg-logo="" group-title="Germany",DE: Vox HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/131.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Vox UP" tvg-logo="" group-title="Germany",DE: Vox UP
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/263.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: 3 Sat" tvg-logo="" group-title="Germany",DE: 3 Sat
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/918.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Arte" tvg-logo="" group-title="Germany",DE: Arte
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/919.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sat.1 HD" tvg-logo="" group-title="Germany",DE: Sat.1 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/127.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sat.1 Gold HD" tvg-logo="" group-title="Germany",DE: Sat.1 Gold HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/900.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL HD" tvg-logo="" group-title="Germany",DE: RTL HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/128.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Nitro HD" tvg-logo="" group-title="Germany",DE: RTL Nitro HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/354.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL II" tvg-logo="" group-title="Germany",DE: RTL II
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/129.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL UP" tvg-logo="" group-title="Germany",DE: RTL UP
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/901.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Passion HD" tvg-logo="" group-title="Germany",DE: RTL Passion HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/903.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Living HD" tvg-logo="" group-title="Germany",DE: RTL Living HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/902.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Crime HD" tvg-logo="" group-title="Germany",DE: RTL Crime HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/904.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Super RTL" tvg-logo="" group-title="Germany",DE: Super RTL
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/259.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: ProSieben HD" tvg-logo="" group-title="Germany",DE: ProSieben HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/130.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Prosieben Fun HD" tvg-logo="" group-title="Germany",DE: Prosieben Fun HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/899.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Pro7 Maxx" tvg-logo="" group-title="Germany",DE: Pro7 Maxx
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/496.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kabel Eins HD" tvg-logo="" group-title="Germany",DE: Kabel Eins HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/132.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kabel Eins Doku" tvg-logo="" group-title="Germany",DE: Kabel Eins Doku
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/897.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kabel Eins Classics" tvg-logo="" group-title="Germany",DE: Kabel Eins Classics
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/898.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: ORF 1" tvg-logo="" group-title="Germany",DE: ORF 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/914.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: ORF 2" tvg-logo="" group-title="Germany",DE: ORF 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/926.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: MDR" tvg-logo="" group-title="Germany",DE: MDR
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/495.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: 13th Street" tvg-logo="" group-title="Germany",DE: 13th Street
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/494.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DMAX" tvg-logo="" group-title="Germany",DE: DMAX
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/493.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: TNT Serie" tvg-logo="" group-title="Germany",DE: TNT Serie
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/538.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: TNT Comedy" tvg-logo="" group-title="Germany",DE: TNT Comedy
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/539.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SYFY HD" tvg-logo="" group-title="Germany",DE: SYFY HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/537.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SRF 1" tvg-logo="" group-title="Germany",DE: SRF 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1616.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SRF zwei" tvg-logo="" group-title="Germany",DE: SRF zwei
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1614.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SRF info" tvg-logo="" group-title="Germany",DE: SRF info
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1612.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Servus TV" tvg-logo="" group-title="Germany",DE: Servus TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1617.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Silverline" tvg-logo="" group-title="Germany",DE: Silverline
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1615.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Universal Channel HD" tvg-logo="" group-title="Germany",DE: Universal Channel HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/905.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Premieren" tvg-logo="" group-title="Germany",DE: Sky Cinema Premieren
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/261.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Action" tvg-logo="" group-title="Germany",DE: Sky Cinema Action
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/265.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Classics" tvg-logo="" group-title="Germany",DE: Sky Cinema Classics
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/264.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Family" tvg-logo="" group-title="Germany",DE: Sky Cinema Family
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/930.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Atlantic" tvg-logo="" group-title="Germany",DE: Sky Atlantic
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/266.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Krimi" tvg-logo="" group-title="Germany",DE: Sky Krimi
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/262.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cartoonito" tvg-logo="" group-title="Germany",DE: Cartoonito
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/350.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Nicktoons" tvg-logo="" group-title="Germany",DE: Nicktoons
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/920.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cartoon Network" tvg-logo="" group-title="Germany",DE: Cartoon Network
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/351.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Toggo Plus" tvg-logo="" group-title="Germany",DE: Toggo Plus
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/913.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Disney Channel" tvg-logo="" group-title="Germany",DE: Disney Channel
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/352.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Discovery Channel" tvg-logo="" group-title="Germany",DE: Discovery Channel
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/353.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kika" tvg-logo="" group-title="Germany",DE: Kika
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/915.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: National Geo" tvg-logo="" group-title="Germany",DE: National Geo
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/260.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 1 HD" tvg-logo="" group-title="Germany",DE: Sky Select 1 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/908.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 2 HD" tvg-logo="" group-title="Germany",DE: Sky Select 2 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/909.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 3 HD" tvg-logo="" group-title="Germany",DE: Sky Select 3 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/910.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 4 HD" tvg-logo="" group-title="Germany",DE: Sky Select 4 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/911.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 5 HD" tvg-logo="" group-title="Germany",DE: Sky Select 5 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/912.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport News HD" tvg-logo="" group-title="Germany",DE: Sky Sport News HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/884.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Premier League HD" tvg-logo="" group-title="Germany",DE: Sky Sport Premier League HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/191.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Top Event HD" tvg-logo="" group-title="Germany",DE: Sky Sport Top Event HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/190.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Mix HD" tvg-logo="" group-title="Germany",DE: Sky Sport Mix HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/886.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Golf  HD" tvg-logo="" group-title="Germany",DE: Sky Sport Golf  HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1378.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Tennis HD" tvg-logo="" group-title="Germany",DE: Sky Sport Tennis HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1375.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga " tvg-logo="" group-title="Germany",DE: Sky Bundesliga 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/192.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 1" tvg-logo="" group-title="Germany",DE: Sky Bundesliga 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1108.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 2" tvg-logo="" group-title="Germany",DE: Sky Bundesliga 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1107.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 3" tvg-logo="" group-title="Germany",DE: Sky Bundesliga 3
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/528.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 4" tvg-logo="" group-title="Germany",DE: Sky Bundesliga 4
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1443.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 5" tvg-logo="" group-title="Germany",DE: Sky Bundesliga 5
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1444.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 6" tvg-logo="" group-title="Germany",DE: Sky Bundesliga 6
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1445.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria 1" tvg-logo="" group-title="Germany",DE: Sky Sport Austria 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/866.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria 2" tvg-logo="" group-title="Germany",DE: Sky Sport Austria 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1608.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria 3" tvg-logo="" group-title="Germany",DE: Sky Sport Austria 3
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1609.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria 4" tvg-logo="" group-title="Germany",DE: Sky Sport Austria 4
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1610.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria 5" tvg-logo="" group-title="Germany",DE: Sky Sport Austria 5
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1611.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 1" tvg-logo="" group-title="Germany",DE: DAZN 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/579.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 2" tvg-logo="" group-title="Germany",DE: DAZN 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/580.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport Digital HD" tvg-logo="" group-title="Sportive",DE: Sport Digital HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/887.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 1" tvg-logo="" group-title="Germany",DE: Eurosport 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/885.ts
+#EXTINF:-1 tvg-id="" tvg-name="_______ Kanale Franceze _______" tvg-logo="" group-title="France",_______ Kanale Franceze _______
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1256.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 HD" tvg-logo="" group-title="France",FR: TF1 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1162.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 2 HD" tvg-logo="" group-title="France",FR: France 2 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1201.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 3 HD" tvg-logo="" group-title="France",FR: France 3 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1203.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 4 HD" tvg-logo="" group-title="France",FR: France 4 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1204.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 5 HD" tvg-logo="" group-title="France",FR: France 5 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1205.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: France Info HD" tvg-logo="" group-title="France",FR: France Info HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1206.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 24" tvg-logo="" group-title="France",FR: France 24
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1202.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: W9 HD" tvg-logo="" group-title="France",FR: W9 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1254.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: M6 HD" tvg-logo="" group-title="France",FR: M6 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1216.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: RTL 9 HD" tvg-logo="" group-title="France",FR: RTL 9 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1237.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: TMC HD" tvg-logo="" group-title="France",FR: TMC HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1246.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: TCM Cinema HD" tvg-logo="" group-title="France",FR: TCM Cinema HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1241.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Tiji HD" tvg-logo="" group-title="France",FR: Tiji HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1245.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 Series Films HD" tvg-logo="" group-title="France",FR: TF1 Series Films HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1163.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal + HD" tvg-logo="" group-title="France",FR: Canal + HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1180.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal + Cinema HD" tvg-logo="" group-title="France",FR: Canal + Cinema HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1181.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal + Kids" tvg-logo="" group-title="France",FR: Canal + Kids
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1183.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal + Series HD" tvg-logo="" group-title="France",FR: Canal + Series HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1184.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine + Festival HD" tvg-logo="" group-title="France",FR: Cine + Festival HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1190.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine + Frisson HD" tvg-logo="" group-title="France",FR: Cine + Frisson HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1189.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine + Famiz HD" tvg-logo="" group-title="France",FR: Cine + Famiz HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1188.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine + Emotion HD" tvg-logo="" group-title="France",FR: Cine + Emotion HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1187.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine + Festival" tvg-logo="" group-title="France",FR: Cine + Festival
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1185.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine + Classic HD" tvg-logo="" group-title="France",FR: Cine + Classic HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1186.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS Max HD" tvg-logo="" group-title="France",FR: OCS Max HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1229.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS Geants HD" tvg-logo="" group-title="France",FR: OCS Geants HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1228.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS Choc HD" tvg-logo="" group-title="France",FR: OCS Choc HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1226.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine Polar " tvg-logo="" group-title="France",FR: Cine Polar 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1212.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Action HD" tvg-logo="" group-title="France",FR: Action HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1161.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB1 HD" tvg-logo="" group-title="France",FR: AB1 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1164.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB3 HD" tvg-logo="" group-title="France",FR: AB3 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1165.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Animaux HD" tvg-logo="" group-title="France",FR: Animaux HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1166.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Teva HD" tvg-logo="" group-title="France",FR: Teva HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1243.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Teletoon + HD" tvg-logo="" group-title="France",FR: Teletoon + HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1242.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Sy-fy HD" tvg-logo="" group-title="France",FR: Sy-fy HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1240.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Serie Club HD" tvg-logo="" group-title="France",FR: Serie Club HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1239.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Planete CI HD" tvg-logo="" group-title="France",FR: Planete CI HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1233.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Planete A&E HD" tvg-logo="" group-title="France",FR: Planete A&E HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1232.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Planete + HD" tvg-logo="" group-title="France",FR: Planete + HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1234.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Paris Premiere HD" tvg-logo="" group-title="France",FR: Paris Premiere HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1231.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Paramount Channel" tvg-logo="" group-title="France",FR: Paramount Channel
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1230.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Nickelodeon Junior" tvg-logo="" group-title="France",FR: Nickelodeon Junior
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1223.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Nickelodeon HD" tvg-logo="" group-title="France",FR: Nickelodeon HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1222.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Natgeo Wild HD" tvg-logo="" group-title="France",FR: Natgeo Wild HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1220.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Ushuaia TV" tvg-logo="" group-title="France",FR: Ushuaia TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1252.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV Breizh HD" tvg-logo="" group-title="France",FR: TV Breizh HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1250.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: MCM" tvg-logo="" group-title="France",FR: MCM
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1219.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Mangas HD" tvg-logo="" group-title="France",FR: Mangas HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1218.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: LCI HD" tvg-logo="" group-title="France",FR: LCI HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1214.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Histoire HD" tvg-logo="" group-title="France",FR: Histoire HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1211.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Gulli HD" tvg-logo="" group-title="France",FR: Gulli HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1210.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Game One HD" tvg-logo="" group-title="France",FR: Game One HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1208.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Euronews" tvg-logo="" group-title="France",FR: Euronews
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1200.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Disney Junior HD" tvg-logo="" group-title="France",FR: Disney Junior HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1198.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Disney Cinema HD" tvg-logo="" group-title="France",FR: Disney Cinema HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1197.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Disney Channel HD" tvg-logo="" group-title="France",FR: Disney Channel HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1196.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Discovery HD" tvg-logo="" group-title="France",FR: Discovery HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1194.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: CStar HD" tvg-logo="" group-title="France",FR: CStar HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1193.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Comedie + HD" tvg-logo="" group-title="France",FR: Comedie + HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1192.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cnews FR HD" tvg-logo="" group-title="France",FR: Cnews FR HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1191.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cartoon Network HD" tvg-logo="" group-title="France",FR: Cartoon Network HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1179.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal J HD" tvg-logo="" group-title="France",FR: Canal J HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1178.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: C8 HD" tvg-logo="" group-title="France",FR: C8 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1177.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Boomerang HD" tvg-logo="" group-title="France",FR: Boomerang HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1176.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Boing" tvg-logo="" group-title="France",FR: Boing
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1175.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Arte HD" tvg-logo="" group-title="France",FR: Arte HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1167.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: 6 Ter HD" tvg-logo="" group-title="France",FR: 6 Ter HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1255.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Sport" tvg-logo="" group-title="France",FR: Canal+ Sport
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1600.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Sport 360" tvg-logo="" group-title="France",FR: Canal+ Sport 360
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1601.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Foot" tvg-logo="" group-title="France",FR: Canal+ Foot
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1602.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Live 1" tvg-logo="" group-title="France",FR: Canal+ Live 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1603.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Live 2" tvg-logo="" group-title="France",FR: Canal+ Live 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1604.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Live 3" tvg-logo="" group-title="France",FR: Canal+ Live 3
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1605.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Live 4" tvg-logo="" group-title="France",FR: Canal+ Live 4
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1606.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Live 5" tvg-logo="" group-title="France",FR: Canal+ Live 5
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1607.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN Sport 1" tvg-logo="" group-title="France",FR: BeIN Sport 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/403.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN Sport 2" tvg-logo="" group-title="France",FR: BeIN Sport 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/404.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN Sport 3" tvg-logo="" group-title="France",FR: BeIN Sport 3
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/405.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN Sports Max 4" tvg-logo="" group-title="France",FR: BeIN Sports Max 4
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1168.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN Sports Max 5" tvg-logo="" group-title="France",FR: BeIN Sports Max 5
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1169.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN Sports Max 6" tvg-logo="" group-title="France",FR: BeIN Sports Max 6
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1170.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN Sports Max 7" tvg-logo="" group-title="France",FR: BeIN Sports Max 7
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1171.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN Sports Max 8" tvg-logo="" group-title="France",FR: BeIN Sports Max 8
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1172.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN Sports Max 9" tvg-logo="" group-title="France",FR: BeIN Sports Max 9
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1173.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN Sports Max 10" tvg-logo="" group-title="France",FR: BeIN Sports Max 10
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1174.ts
+#EXTINF:-1 tvg-id="" tvg-name="_______ SKY UK _______" tvg-logo="" group-title="UK",_______ SKY UK _______
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/796.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC News " tvg-logo="" group-title="UK",UK: BBC News 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/500.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 1 " tvg-logo="" group-title="UK",UK: BBC 1 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/430.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 2 " tvg-logo="" group-title="UK",UK: BBC 2 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/431.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 1 " tvg-logo="" group-title="UK",UK: ITV 1 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/432.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 2 " tvg-logo="" group-title="UK",UK: ITV 2 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/433.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 3 " tvg-logo="" group-title="UK",UK: ITV 3 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/436.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky News" tvg-logo="" group-title="UK",UK: Sky News
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/429.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Grates " tvg-logo="" group-title="UK",UK: Sky Cinema Grates 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/472.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Scifi and Horror UK" tvg-logo="" group-title="UK",UK: Sky Cinema Scifi and Horror UK
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/474.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Premiere " tvg-logo="" group-title="UK",UK: Sky Cinema Premiere 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/475.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Family " tvg-logo="" group-title="UK",UK: Sky Cinema Family 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/476.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Drama " tvg-logo="" group-title="UK",UK: Sky Cinema Drama 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/473.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Thriller " tvg-logo="" group-title="UK",UK: Sky Cinema Thriller 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/471.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Comedy " tvg-logo="" group-title="UK",UK: Sky Cinema Comedy 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/477.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Action " tvg-logo="" group-title="UK",UK: Sky Cinema Action 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/478.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Discovery Science " tvg-logo="" group-title="UK",UK: Discovery Science 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/411.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Discovery History " tvg-logo="" group-title="UK",UK: Discovery History 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/412.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Animal Planet " tvg-logo="" group-title="UK",UK: Animal Planet 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/501.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: National Geo " tvg-logo="http://www.cablevisionadsales.com/wp-content/uploads/natgeo.gif" group-title="UK",UK: National Geo 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/164.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Nat Geo Wild" tvg-logo="" group-title="UK",UK: Nat Geo Wild
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/502.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: MTV Music " tvg-logo="" group-title="UK",UK: MTV Music 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/498.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: MTV Hits " tvg-logo="" group-title="UK",UK: MTV Hits 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/497.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: VH1 " tvg-logo="" group-title="UK",UK: VH1 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/544.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Boomerang " tvg-logo="" group-title="UK",UK: Boomerang 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/546.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Cartoon Network " tvg-logo="" group-title="UK",UK: Cartoon Network 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/229.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports News " tvg-logo="" group-title="UK",UK: Sky Sports News 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/151.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League HD " tvg-logo="" group-title="UK",UK: Sky Sports Premier League HD 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/138.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Football HD " tvg-logo="" group-title="UK",UK: Sky Sports Football HD 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/139.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports + HD" tvg-logo="" group-title="UK",UK: Sky Sports + HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1008.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Mix HD " tvg-logo="" group-title="UK",UK: Sky Sports Mix HD 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1010.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Cricket HD " tvg-logo="" group-title="UK",UK: Sky Sports Cricket HD 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1009.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Main Events HD " tvg-logo="" group-title="UK",UK: Sky Sports Main Events HD 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/140.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports F1" tvg-logo="" group-title="UK",UK: Sky Sports F1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/152.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Golf HD " tvg-logo="" group-title="UK",UK: Sky Sports Golf HD 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/141.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sport 1 " tvg-logo="" group-title="UK",UK: TNT Sport 1 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/156.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sport 2 " tvg-logo="" group-title="UK",UK: TNT Sport 2 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/157.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sport 3 " tvg-logo="" group-title="UK",UK: TNT Sport 3 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/158.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sport 4 " tvg-logo="" group-title="UK",UK: TNT Sport 4 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/159.ts
+#EXTINF:-1 tvg-id="" tvg-name="_______ Kanale Greke _______" tvg-logo="" group-title="Greke",_______ Kanale Greke _______
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/999.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: ERT World" tvg-logo="" group-title="Greke",GR: ERT World
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/964.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: ERT 1" tvg-logo="" group-title="Greke",GR: ERT 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/965.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: ERT 2" tvg-logo="" group-title="Greke",GR: ERT 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/966.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: ERT 3" tvg-logo="" group-title="Greke",GR: ERT 3
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/967.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: ANT1" tvg-logo="" group-title="Greke",GR: ANT1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/969.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Alpha" tvg-logo="" group-title="Greke",GR: Alpha
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/970.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Star" tvg-logo="" group-title="Greke",GR: Star
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/972.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Skai" tvg-logo="" group-title="Greke",GR: Skai
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/971.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Sigma" tvg-logo="" group-title="Greke",GR: Sigma
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/976.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Rik Sat" tvg-logo="" group-title="Greke",GR: Rik Sat
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/974.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Mega TV" tvg-logo="" group-title="Greke",GR: Mega TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/977.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Makedonia TV" tvg-logo="" group-title="Greke",GR: Makedonia TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/973.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Open Beyond HD" tvg-logo="" group-title="Greke",GR: Open Beyond HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/984.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Action 24" tvg-logo="" group-title="Greke",GR: Action 24
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1015.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Mad TV" tvg-logo="" group-title="Greke",GR: Mad TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/975.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Kontra TV" tvg-logo="" group-title="Greke",GR: Kontra TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/979.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Creta TV" tvg-logo="" group-title="Greke",GR: Creta TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/978.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: FX" tvg-logo="" group-title="Greke",GR: FX
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/986.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: FX Life" tvg-logo="" group-title="Greke",GR: FX Life
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1016.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nickelodeon" tvg-logo="" group-title="Greke",GR: Nickelodeon
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/985.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Disney Channel" tvg-logo="" group-title="Greke",GR: Disney Channel
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1017.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nat Geo Wild" tvg-logo="" group-title="Greke",GR: Nat Geo Wild
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1011.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Discovery Channel" tvg-logo="" group-title="Greke",GR: Discovery Channel
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/982.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Cinema 1" tvg-logo="" group-title="Greke",GR: Nova Cinema 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/927.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Cinema 2" tvg-logo="" group-title="Greke",GR: Nova Cinema 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/935.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Cinema 3" tvg-logo="" group-title="Greke",GR: Nova Cinema 3
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1101.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Cinema 4" tvg-logo="" group-title="Greke",GR: Nova Cinema 4
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1102.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Sports Prime" tvg-logo="" group-title="Greke",GR: Nova Sports Prime
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1314.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Sports Start " tvg-logo="" group-title="Greke",GR: Nova Sports Start 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/983.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Sports Premier League " tvg-logo="" group-title="Greke",GR: Nova Sports Premier League 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1477.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Sports 1" tvg-logo="" group-title="Greke",GR: Nova Sports 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/940.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Sports 2" tvg-logo="" group-title="Greke",GR: Nova Sports 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/941.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Sports 3" tvg-logo="" group-title="Greke",GR: Nova Sports 3
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1317.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Sports 4" tvg-logo="" group-title="Greke",GR: Nova Sports 4
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1157.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Sports 5 " tvg-logo="" group-title="Greke",GR: Nova Sports 5 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1613.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Magenta Cinema 1" tvg-logo="" group-title="Greke",GR: Magenta Cinema 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/931.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Magenta Cinema 2" tvg-logo="" group-title="Greke",GR: Magenta Cinema 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/932.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Magenta Cinema 3" tvg-logo="" group-title="Greke",GR: Magenta Cinema 3
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/933.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Magenta Series" tvg-logo="" group-title="Greke",GR: Magenta Series
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/934.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Magenta History" tvg-logo="" group-title="Greke",GR: Magenta History
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/980.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Magenta Sport 1" tvg-logo="" group-title="Greke",GR: Magenta Sport 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/936.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Magenta Sport 2" tvg-logo="" group-title="Greke",GR: Magenta Sport 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/937.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Magenta Sport 3" tvg-logo="" group-title="Greke",GR: Magenta Sport 3
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/938.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Magenta Sport 4" tvg-logo="" group-title="Greke",GR: Magenta Sport 4
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/939.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Magenta Sport 5" tvg-logo="" group-title="Greke",GR: Magenta Sport 5
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/942.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Magenta Sport 6" tvg-logo="" group-title="Greke",GR: Magenta Sport 6
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/943.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Magenta Sport 7" tvg-logo="" group-title="Greke",GR: Magenta Sport 7
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1092.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR: Magenta Sport 8" tvg-logo="" group-title="Greke",GR: Magenta Sport 8
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1093.ts
+#EXTINF:-1 tvg-id="" tvg-name="_______ Kanale EX-YU _______" tvg-logo="" group-title="EX-YU",_______ Kanale EX-YU _______
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1475.ts
+#EXTINF:-1 tvg-id="" tvg-name="MK: MRT 1" tvg-logo="" group-title="EX-YU",MK: MRT 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1425.ts
+#EXTINF:-1 tvg-id="a04d" tvg-name="MK: MRT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/MRT_2_new_logo.png" group-title="EX-YU",MK: MRT 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/77.ts
+#EXTINF:-1 tvg-id="" tvg-name="MK: MRT 3" tvg-logo="" group-title="EX-YU",MK: MRT 3
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1426.ts
+#EXTINF:-1 tvg-id="" tvg-name="MK: MRT 4" tvg-logo="" group-title="EX-YU",MK: MRT 4
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1479.ts
+#EXTINF:-1 tvg-id="" tvg-name="MK: MRT 5" tvg-logo="" group-title="EX-YU",MK: MRT 5
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1480.ts
+#EXTINF:-1 tvg-id="" tvg-name="MK: Sitel" tvg-logo="" group-title="EX-YU",MK: Sitel
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1481.ts
+#EXTINF:-1 tvg-id="" tvg-name="MK: Telma" tvg-logo="" group-title="EX-YU",MK: Telma
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1482.ts
+#EXTINF:-1 tvg-id="" tvg-name="MK: Alfa TV" tvg-logo="" group-title="EX-YU",MK: Alfa TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1483.ts
+#EXTINF:-1 tvg-id="" tvg-name="MK: Kanal 5" tvg-logo="" group-title="EX-YU",MK: Kanal 5
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1484.ts
+#EXTINF:-1 tvg-id="" tvg-name="MK: TV 2 Gostivar" tvg-logo="" group-title="EX-YU",MK: TV 2 Gostivar
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1276.ts
+#EXTINF:-1 tvg-id="" tvg-name="MK: ERA TV" tvg-logo="http://www.predavatel.com/mk/1/skopje_images/sko_tvera.gif" group-title="EX-YU",MK: ERA TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/23.ts
+#EXTINF:-1 tvg-id="" tvg-name="MK: TV Koha" tvg-logo="" group-title="EX-YU",MK: TV Koha
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/509.ts
+#EXTINF:-1 tvg-id="TVShenja.al" tvg-name="MK: TV Shenja" tvg-logo="" group-title="EX-YU",MK: TV Shenja
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/482.ts
+#EXTINF:-1 tvg-id="" tvg-name="MK: TV Uskana" tvg-logo="" group-title="EX-YU",MK: TV Uskana
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1428.ts
+#EXTINF:-1 tvg-id="" tvg-name="CG: RTCG 1" tvg-logo="" group-title="EX-YU",CG: RTCG 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1485.ts
+#EXTINF:-1 tvg-id="" tvg-name="CG: RTCG 2" tvg-logo="" group-title="EX-YU",CG: RTCG 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1486.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: RTS 1" tvg-logo="" group-title="EX-YU",SR: RTS 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1487.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: RTS 2" tvg-logo="" group-title="EX-YU",SR: RTS 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1488.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: RTS 3" tvg-logo="" group-title="EX-YU",SR: RTS 3
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1556.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: RTS Svet" tvg-logo="" group-title="EX-YU",SR: RTS Svet
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1489.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: PRVA" tvg-logo="" group-title="EX-YU",SR: PRVA
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1508.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: b92 TV" tvg-logo="" group-title="EX-YU",SR: b92 TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1490.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Nova S" tvg-logo="" group-title="EX-YU",SR: Nova S
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1491.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Grand TV" tvg-logo="" group-title="EX-YU",SR: Grand TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1492.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Grand TV 2" tvg-logo="" group-title="EX-YU",SR: Grand TV 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1493.ts
+#EXTINF:-1 tvg-id="" tvg-name="SI: SLO 1" tvg-logo="" group-title="EX-YU",SI: SLO 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1494.ts
+#EXTINF:-1 tvg-id="" tvg-name="SI: SLO 2" tvg-logo="" group-title="EX-YU",SI: SLO 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1495.ts
+#EXTINF:-1 tvg-id="" tvg-name="SI: SLO 3" tvg-logo="" group-title="EX-YU",SI: SLO 3
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1496.ts
+#EXTINF:-1 tvg-id="" tvg-name="SI: Kanal A" tvg-logo="" group-title="EX-YU",SI: Kanal A
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1497.ts
+#EXTINF:-1 tvg-id="" tvg-name="HR: HRT 1" tvg-logo="" group-title="EX-YU",HR: HRT 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1478.ts
+#EXTINF:-1 tvg-id="" tvg-name="HR: HRT 2" tvg-logo="" group-title="EX-YU",HR: HRT 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1498.ts
+#EXTINF:-1 tvg-id="" tvg-name="HR: HRT 3" tvg-logo="" group-title="EX-YU",HR: HRT 3
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1499.ts
+#EXTINF:-1 tvg-id="" tvg-name="HR: HRT 4" tvg-logo="" group-title="EX-YU",HR: HRT 4
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1500.ts
+#EXTINF:-1 tvg-id="" tvg-name="HR: RTL Televizija" tvg-logo="" group-title="EX-YU",HR: RTL Televizija
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1501.ts
+#EXTINF:-1 tvg-id="" tvg-name="HR: RTL 2" tvg-logo="" group-title="EX-YU",HR: RTL 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1502.ts
+#EXTINF:-1 tvg-id="" tvg-name="HR: RTL Living" tvg-logo="" group-title="EX-YU",HR: RTL Living
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1503.ts
+#EXTINF:-1 tvg-id="" tvg-name="HR: RTL Crime" tvg-logo="" group-title="EX-YU",HR: RTL Crime
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1504.ts
+#EXTINF:-1 tvg-id="" tvg-name="HR: Nova TV" tvg-logo="" group-title="EX-YU",HR: Nova TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1505.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink HD" tvg-logo="" group-title="EX-YU",SR: Pink HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1506.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink Red" tvg-logo="" group-title="EX-YU",SR: Pink Red
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1507.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink Extra" tvg-logo="" group-title="EX-YU",SR: Pink Extra
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1509.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink BH" tvg-logo="" group-title="EX-YU",SR: Pink BH
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1510.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink Zabava" tvg-logo="" group-title="EX-YU",SR: Pink Zabava
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1511.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink Music" tvg-logo="" group-title="EX-YU",SR: Pink Music
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1512.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink Music 2" tvg-logo="" group-title="EX-YU",SR: Pink Music 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1513.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink Hits 1" tvg-logo="" group-title="EX-YU",SR: Pink Hits 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1514.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink Hits 2" tvg-logo="" group-title="EX-YU",SR: Pink Hits 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1515.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink Folk" tvg-logo="" group-title="EX-YU",SR: Pink Folk
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1516.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink Folk 2" tvg-logo="" group-title="EX-YU",SR: Pink Folk 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1517.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink Western" tvg-logo="" group-title="EX-YU",SR: Pink Western
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1518.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink Family" tvg-logo="" group-title="EX-YU",SR: Pink Family
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1519.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink Film" tvg-logo="" group-title="EX-YU",SR: Pink Film
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1520.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink Horror" tvg-logo="" group-title="EX-YU",SR: Pink Horror
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1521.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink HA HA" tvg-logo="" group-title="EX-YU",SR: Pink HA HA
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1522.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink LOL" tvg-logo="" group-title="EX-YU",SR: Pink LOL
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1523.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink Plus" tvg-logo="" group-title="EX-YU",SR: Pink Plus
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1524.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink Comedy" tvg-logo="" group-title="EX-YU",SR: Pink Comedy
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1525.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink Crime & Mystery" tvg-logo="" group-title="EX-YU",SR: Pink Crime & Mystery
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1526.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink Sci-Fi & Fantasy" tvg-logo="" group-title="EX-YU",SR: Pink Sci-Fi & Fantasy
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1527.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink Thriller" tvg-logo="" group-title="EX-YU",SR: Pink Thriller
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1528.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink Action" tvg-logo="" group-title="EX-YU",SR: Pink Action
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1529.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink Movies" tvg-logo="" group-title="EX-YU",SR: Pink Movies
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1530.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink Serije" tvg-logo="" group-title="EX-YU",SR: Pink Serije
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1531.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink World Cinema" tvg-logo="" group-title="EX-YU",SR: Pink World Cinema
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1532.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink M" tvg-logo="" group-title="EX-YU",SR: Pink M
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1533.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink Show" tvg-logo="" group-title="EX-YU",SR: Pink Show
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1534.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink Classic" tvg-logo="" group-title="EX-YU",SR: Pink Classic
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1535.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink Pedia" tvg-logo="" group-title="EX-YU",SR: Pink Pedia
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1536.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink Reality" tvg-logo="" group-title="EX-YU",SR: Pink Reality
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1537.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink Soap" tvg-logo="" group-title="EX-YU",SR: Pink Soap
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1538.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink Kuvar" tvg-logo="" group-title="EX-YU",SR: Pink Kuvar
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1539.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Pink S!" tvg-logo="" group-title="EX-YU",SR: Pink S!
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1540.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: OBN " tvg-logo="" group-title="EX-YU",SR: OBN 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1557.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: BN HD" tvg-logo="" group-title="EX-YU",SR: BN HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1558.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: DM Sat" tvg-logo="" group-title="EX-YU",SR: DM Sat
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1553.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: BN Music" tvg-logo="" group-title="EX-YU",SR: BN Music
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1554.ts
+#EXTINF:-1 tvg-id="" tvg-name="BG: Balkanika" tvg-logo="" group-title="EX-YU",BG: Balkanika
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/76.ts
+#EXTINF:-1 tvg-id="" tvg-name="BG: Fen TV" tvg-logo="" group-title="EX-YU",BG: Fen TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1265.ts
+#EXTINF:-1 tvg-id="" tvg-name="BG: Planeta TV" tvg-logo="" group-title="EX-YU",BG: Planeta TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1266.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Arena Sport Premium 1" tvg-logo="" group-title="EX-YU",SR: Arena Sport Premium 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1096.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Arena Sport Premium 2" tvg-logo="" group-title="EX-YU",SR: Arena Sport Premium 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1097.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Arena Sport Premium 3" tvg-logo="" group-title="EX-YU",SR: Arena Sport Premium 3
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/889.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Arena Sport Premium 4" tvg-logo="" group-title="EX-YU",SR: Arena Sport Premium 4
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1559.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Arena Sport Premium 5" tvg-logo="" group-title="EX-YU",SR: Arena Sport Premium 5
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1560.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Arena Sport 1 " tvg-logo="http://ontv.al/app/images/97252_arenasport1.png" group-title="EX-YU",SR: Arena Sport 1 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/107.ts
+#EXTINF:-1 tvg-id="tv-arena-sport-2.sport" tvg-name="SR: Arena Sport 2 " tvg-logo="http://ontv.al/app/images/1571_arenasport2.png" group-title="EX-YU",SR: Arena Sport 2 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/108.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Arena Sport 3 " tvg-logo="http://ontv.al/app/images/22700_arenasport3.png" group-title="EX-YU",SR: Arena Sport 3 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/109.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Arena Sport 4 " tvg-logo="" group-title="EX-YU",SR: Arena Sport 4 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/110.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Arena Sport 5 " tvg-logo="" group-title="EX-YU",SR: Arena Sport 5 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/111.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Arena Sport 6" tvg-logo="" group-title="EX-YU",SR: Arena Sport 6
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1548.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Arena Sport 7" tvg-logo="" group-title="EX-YU",SR: Arena Sport 7
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1549.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Arena Sport 8" tvg-logo="" group-title="EX-YU",SR: Arena Sport 8
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1550.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Arena Sport  9" tvg-logo="" group-title="EX-YU",SR: Arena Sport  9
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1551.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Arena Sport 10" tvg-logo="" group-title="EX-YU",SR: Arena Sport 10
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1552.ts
+#EXTINF:-1 tvg-id="tv-arena-sport-1-hr.sport" tvg-name="HR: Arena Sport 1 " tvg-logo="http://ontv.al/app/images/97252_arenasport1.png" group-title="EX-YU",HR: Arena Sport 1 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/104.ts
+#EXTINF:-1 tvg-id="" tvg-name="HR: Arena Sport 2" tvg-logo="http://ontv.al/app/images/1571_arenasport2.png" group-title="EX-YU",HR: Arena Sport 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/105.ts
+#EXTINF:-1 tvg-id="" tvg-name="HR: Arena Sport 3 " tvg-logo="http://ontv.al/app/images/22700_arenasport3.png" group-title="EX-YU",HR: Arena Sport 3 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/106.ts
+#EXTINF:-1 tvg-id="" tvg-name="HR: Arena Sport 4 " tvg-logo="" group-title="EX-YU",HR: Arena Sport 4 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/188.ts
+#EXTINF:-1 tvg-id="" tvg-name="HR: Arena Sport 5 " tvg-logo="" group-title="EX-YU",HR: Arena Sport 5 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/193.ts
+#EXTINF:-1 tvg-id="" tvg-name="HR: Arena Sport 6" tvg-logo="" group-title="EX-YU",HR: Arena Sport 6
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1541.ts
+#EXTINF:-1 tvg-id="" tvg-name="HR: Arena Sport 7" tvg-logo="" group-title="EX-YU",HR: Arena Sport 7
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1542.ts
+#EXTINF:-1 tvg-id="" tvg-name="HR: Arena Sport 8" tvg-logo="" group-title="EX-YU",HR: Arena Sport 8
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1543.ts
+#EXTINF:-1 tvg-id="" tvg-name="HR: Arena Sport 9" tvg-logo="" group-title="EX-YU",HR: Arena Sport 9
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1544.ts
+#EXTINF:-1 tvg-id="" tvg-name="HR: Arena Sport 10" tvg-logo="" group-title="EX-YU",HR: Arena Sport 10
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1545.ts
+#EXTINF:-1 tvg-id="" tvg-name="HR: Max Sport 1" tvg-logo="" group-title="EX-YU",HR: Max Sport 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1546.ts
+#EXTINF:-1 tvg-id="" tvg-name="HR: Max Sport 2" tvg-logo="" group-title="EX-YU",HR: Max Sport 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1547.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Sport Klub 1" tvg-logo="" group-title="EX-YU",SR: Sport Klub 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/112.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Sport Klub 2" tvg-logo="" group-title="EX-YU",SR: Sport Klub 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/113.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Sport Klub 3" tvg-logo="" group-title="EX-YU",SR: Sport Klub 3
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/114.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Sport Klub 4" tvg-logo="" group-title="EX-YU",SR: Sport Klub 4
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/153.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Sport Klub 5" tvg-logo="http://cdn.realscreen.com/wp/wp-content/uploads/2014/11/Discovery-Showcase-HD.jpg?13743d" group-title="EX-YU",SR: Sport Klub 5
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/115.ts
+#EXTINF:-1 tvg-id="" tvg-name="SR: Sport Klub 6" tvg-logo="" group-title="EX-YU",SR: Sport Klub 6
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/116.ts
+#EXTINF:-1 tvg-id="" tvg-name="_______ Kanale Turke _______" tvg-logo="" group-title="Turkey",_______ Kanale Turke _______
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1063.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1" tvg-logo="" group-title="Turkey",TR: TRT 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1561.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 2" tvg-logo="" group-title="Turkey",TR: TRT 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1562.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR" tvg-logo="" group-title="Turkey",TR: TRT SPOR
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1563.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT AVAZ" tvg-logo="" group-title="Turkey",TR: TRT AVAZ
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1564.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT COCUK" tvg-logo="" group-title="Turkey",TR: TRT COCUK
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1565.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT HABER" tvg-logo="" group-title="Turkey",TR: TRT HABER
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1566.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT MUZIK" tvg-logo="" group-title="Turkey",TR: TRT MUZIK
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1567.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT BELGESEL" tvg-logo="" group-title="Turkey",TR: TRT BELGESEL
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1568.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT TURK" tvg-logo="" group-title="Turkey",TR: TRT TURK
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1569.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT WORLD" tvg-logo="" group-title="Turkey",TR: TRT WORLD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1570.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TV" tvg-logo="" group-title="Turkey",TR: SHOW TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1571.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW MAX" tvg-logo="" group-title="Turkey",TR: SHOW MAX
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1572.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TURK" tvg-logo="" group-title="Turkey",TR: SHOW TURK
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1573.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV" tvg-logo="" group-title="Turkey",TR: STAR TV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1574.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSTAR" tvg-logo="" group-title="Turkey",TR: EUROSTAR
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1575.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EURO D" tvg-logo="" group-title="Turkey",TR: EURO D
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1576.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D" tvg-logo="" group-title="Turkey",TR: KANAL D
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1577.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT EU" tvg-logo="" group-title="Turkey",TR: TGRT EU
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1578.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV8" tvg-logo="" group-title="Turkey",TR: TV8
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1579.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV" tvg-logo="" group-title="Turkey",TR: ATV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1580.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: NTV" tvg-logo="" group-title="Turkey",TR: NTV
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1555.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: A HABER" tvg-logo="" group-title="Turkey",TR: A HABER
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1581.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT HABER" tvg-logo="" group-title="Turkey",TR: TGRT HABER
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1582.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABER TURK" tvg-logo="" group-title="Turkey",TR: HABER TURK
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1584.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR" tvg-logo="" group-title="Turkey",TR: TIVIBU SPOR
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1585.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 1" tvg-logo="" group-title="Turkey",TR: TIVIBU SPOR 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1586.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 2" tvg-logo="" group-title="Turkey",TR: TIVIBU SPOR 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1587.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 3" tvg-logo="" group-title="Turkey",TR: TIVIBU SPOR 3
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1588.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT 1" tvg-logo="" group-title="Turkey",TR: S SPORT 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1589.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT 2" tvg-logo="" group-title="Turkey",TR: S SPORT 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1590.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR" tvg-logo="" group-title="Turkey",TR: A SPOR
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1583.ts
+#EXTINF:-1 tvg-id="" tvg-name="_______ Kanale Sportive _______" tvg-logo="" group-title="Sportive",_______ Kanale Sportive _______
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/798.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 1" tvg-logo="" group-title="Sportive",PT: DAZN 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1453.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 2" tvg-logo="" group-title="Sportive",PT: DAZN 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1454.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 3" tvg-logo="" group-title="Sportive",PT: DAZN 3
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1455.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 4" tvg-logo="" group-title="Sportive",PT: DAZN 4
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1456.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 5" tvg-logo="" group-title="Sportive",PT: DAZN 5
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1457.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 1 " tvg-logo="" group-title="Sportive",PT: Sport TV 1 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/627.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 2 " tvg-logo="" group-title="Sportive",PT: Sport TV 2 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/628.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 3 " tvg-logo="" group-title="Sportive",PT: Sport TV 3 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/629.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 4 " tvg-logo="" group-title="Sportive",PT: Sport TV 4 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/630.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 5 " tvg-logo="" group-title="Sportive",PT: Sport TV 5 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/631.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LaLiga " tvg-logo="" group-title="Sportive",ES: DAZN LaLiga 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1452.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar LaLiga HD" tvg-logo="" group-title="Sportive",ES: Movistar LaLiga HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/560.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Liga De Campeones HD" tvg-logo="" group-title="Sportive",ES: Movistar Liga De Campeones HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/552.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Canal+ Sport 1" tvg-logo="" group-title="Sportive",PL: Canal+ Sport 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1618.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Canal+ Sport 2" tvg-logo="" group-title="Sportive",PL: Canal+ Sport 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1619.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Canal+ Sport 3" tvg-logo="" group-title="Sportive",PL: Canal+ Sport 3
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1621.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Canal+ Sport 4" tvg-logo="" group-title="Sportive",PL: Canal+ Sport 4
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1622.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Canal+ Sport 5" tvg-logo="" group-title="Sportive",PL: Canal+ Sport 5
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1623.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport 1" tvg-logo="" group-title="Sportive",PL: Polsat Sport 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1043.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport 2" tvg-logo="" group-title="Sportive",PL: Polsat Sport 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1044.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport 3" tvg-logo="" group-title="Sportive",PL: Polsat Sport 3
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1042.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Premium 1" tvg-logo="" group-title="Sportive",PL: Polsat Sport Premium 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1045.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Premium 2" tvg-logo="" group-title="Sportive",PL: Polsat Sport Premium 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1046.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sports 1 HD" tvg-logo="" group-title="Sportive",PL: Eleven Sports 1 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/621.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sports 2 HD" tvg-logo="" group-title="Sportive",PL: Eleven Sports 2 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/622.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sports 3 HD" tvg-logo="" group-title="Sportive",PL: Eleven Sports 3 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/623.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sports 4 HD" tvg-logo="" group-title="Sportive",PL: Eleven Sports 4 HD
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/624.ts
+#EXTINF:-1 tvg-id="" tvg-name="BG: Diema Sport 1" tvg-logo="" group-title="Sportive",BG: Diema Sport 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1592.ts
+#EXTINF:-1 tvg-id="" tvg-name="BG: Diema Sport 2" tvg-logo="" group-title="Sportive",BG: Diema Sport 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1593.ts
+#EXTINF:-1 tvg-id="" tvg-name="BG: Diema Sport 3" tvg-logo="" group-title="Sportive",BG: Diema Sport 3
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1594.ts
+#EXTINF:-1 tvg-id="" tvg-name="BG: Max Sport 1" tvg-logo="" group-title="Sportive",BG: Max Sport 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1595.ts
+#EXTINF:-1 tvg-id="" tvg-name="BG: Max Sport 2" tvg-logo="" group-title="Sportive",BG: Max Sport 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1596.ts
+#EXTINF:-1 tvg-id="" tvg-name="BG: Max Sport 3" tvg-logo="" group-title="Sportive",BG: Max Sport 3
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1597.ts
+#EXTINF:-1 tvg-id="" tvg-name="BG: Max Sport 4" tvg-logo="" group-title="Sportive",BG: Max Sport 4
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1598.ts
+#EXTINF:-1 tvg-id="" tvg-name="BG: Nova Sport" tvg-logo="" group-title="Sportive",BG: Nova Sport
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1599.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 1" tvg-logo="" group-title="Sportive",RO: Digi Sport 1
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1624.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 2" tvg-logo="" group-title="Sportive",RO: Digi Sport 2
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1625.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 3" tvg-logo="" group-title="Sportive",RO: Digi Sport 3
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1626.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 4" tvg-logo="" group-title="Sportive",RO: Digi Sport 4
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1627.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Zepa" tvg-logo="https://mytunein.com/images/logos/radiozepa.jpg" group-title="Radio",Radio Zepa
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1370.ts
+#EXTINF:-1 tvg-id="" tvg-name="Top Albania Radio " tvg-logo="" group-title="Radio",Top Albania Radio 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1373.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Liria " tvg-logo="" group-title="Radio",Radio Liria 
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1377.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Jehona Shkoder" tvg-logo="" group-title="Radio",Radio Jehona Shkoder
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1659.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Zemra" tvg-logo="" group-title="Radio",Radio Zemra
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1660.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Marimanga" tvg-logo="" group-title="Radio",Radio Marimanga
+http://client1.ontval.online:8080/live/Elidonkamberi/lnF3HsCyHy/1661.ts
